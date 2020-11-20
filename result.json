@@ -1,0 +1,279 @@
+{
+	"ErrorCode": {
+		"Id": 200,
+		"Description": "Success - OK",
+		"Status": "Pins-Via-Cache:false;Sidebar-Items-Via-Cache:0;",
+		"ProductName": "! Push to PR-Stage - Realtor API (Maintenance)^29583 + Casing issue on serialize [Wednesday, October 28, 2020 8:42:08 AM]",
+		"Version": "1.0.7606.15669"
+	},
+	"Paging": {
+		"RecordsPerPage": 9,
+		"CurrentPage": 1,
+		"TotalRecords": 2,
+		"MaxRecords": 500,
+		"TotalPages": 1,
+		"RecordsShowing": 2,
+		"Pins": 2
+	},
+	"Results": [
+		{
+			"Id": "22565401",
+			"MlsNumber": "W4980085",
+			"PublicRemarks": "Calling All First Time Buyers & Investors! Unbelievable Below Market Opportunity To Invest In Spacious 2 Bed + 2 Bath W/ Large Solarium (Can Be Used As Bedroom Or Office) In Heart Of Mississauga! Will Sell Fast. Minutes To Hwy 403. 16th Floor W/ Gorgeous Views. Bright & Spacious Unit W/ Floor To Ceiling Windows! 24Hr Concierge, Gym, Pool & Party Room. Close To All Amenities, Schools, Square One Mall, & More.**** EXTRAS **** Comes With 3 Parking Spots! Spacious Locker For Extra Storage. Fridge, Stove, B/I Dishwasher, Washer & Dryer. All Existing Light Fixtures & Window Blinds. (27545486)",
+			"Building": {
+				"BathroomTotal": "2",
+				"Bedrooms": "2 + 1",
+				"Type": "Apartment",
+				"Ammenities": "Storage - Locker"
+			},
+			"Individual": [
+				{
+					"IndividualID": 2047352,
+					"Name": "ADNAN QUDRAT",
+					"Organization": {
+						"OrganizationID": 69897,
+						"Name": "ROYAL LEPAGE PREMIUM ONE REALTY",
+						"Logo": "https://cdn.realtor.ca/organization/en-CA/TS637401838670000000/lowres/69897.jpg",
+						"Address": {
+							"AddressText": "595 CITYVIEW BLVD UNIT 3|VAUGHAN, Ontario L4H3M7",
+							"PermitShowAddress": true
+						},
+						"Phones": [
+							{
+								"PhoneType": "Telephone",
+								"PhoneNumber": "410-9111",
+								"AreaCode": "416",
+								"PhoneTypeId": "1"
+							},
+							{
+								"PhoneType": "Fax",
+								"PhoneNumber": "532-0355",
+								"AreaCode": "905",
+								"PhoneTypeId": "4"
+							}
+						],
+						"Emails": [
+							{
+								"ContactId": "414881068"
+							}
+						],
+						"Websites": [
+							{
+								"Website": "HTTP://www.royallepagepremiumone.com",
+								"WebsiteTypeId": "1"
+							}
+						],
+						"OrganizationType": "Firm",
+						"Designation": "Brokerage",
+						"HasEmail": true,
+						"PermitFreetextEmail": true,
+						"PermitShowListingLink": true,
+						"RelativeDetailsURL": "/office/firm/69897/royal-lepage-premium-one-realty-595-cityview-blvd-unit-3-vaughan-ontario-l4h3m7",
+						"PhotoLastupdate": "2020-11-05 2:37:47 PM"
+					},
+					"Phones": [
+						{
+							"PhoneType": "Telephone",
+							"PhoneNumber": "575-5050",
+							"AreaCode": "647",
+							"PhoneTypeId": "1"
+						}
+					],
+					"Emails": [
+						{
+							"ContactId": "455866552"
+						}
+					],
+					"Position": "Salesperson",
+					"PermitFreetextEmail": true,
+					"FirstName": "ADNAN",
+					"LastName": "QUDRAT",
+					"CorporationDisplayTypeId": "0",
+					"PermitShowListingLink": true,
+					"RelativeDetailsURL": "/agent/2047352/adnan-qudrat-595-cityview-blvd-unit-3-vaughan-ontario-l4h3m7"
+				}
+			],
+			"Property": {
+				"Price": "$399,000",
+				"Type": "Single Family",
+				"Address": {
+					"AddressText": "#1606 -4460 TUCANA CRT|Mississauga, Ontario L5R3K9",
+					"Longitude": "-79.6479737",
+					"Latitude": "43.6008941",
+					"PermitShowAddress": true
+				},
+				"Photo": [
+					{
+						"SequenceId": "1",
+						"HighResPath": "https://cdn.realtor.ca/listings/TS637401876354900000/reb82/highres/5/w4980085_1.jpg",
+						"MedResPath": "https://cdn.realtor.ca/listings/TS637401876354900000/reb82/medres/5/w4980085_1.jpg",
+						"LowResPath": "https://cdn.realtor.ca/listings/TS637401876354900000/reb82/lowres/5/w4980085_1.jpg",
+						"LastUpdated": "2020-11-05 3:40:35 PM"
+					}
+				],
+				"Parking": [
+					{
+						"Name": "Underground"
+					}
+				],
+				"ParkingSpaceTotal": "3",
+				"TypeId": "300",
+				"OwnershipType": "Condominium/Strata",
+				"ConvertedPrice": "$399,000 ",
+				"OwnershipTypeGroupIds": [
+					2
+				],
+				"ParkingType": "Underground"
+			},
+			"Business": {},
+			"Land": {},
+			"AlternateURL": {
+				"VideoLink": "http://virtualtourrealestate.ca/November2020/Nov4HUnbranded/"
+			},
+			"PostalCode": "L5R3K9",
+			"RelativeDetailsURL": "/real-estate/22565401/1606-4460-tucana-crt-mississauga-hurontario",
+			"StatusId": "1",
+			"PhotoChangeDateUTC": "2020-11-05 8:40:35 PM",
+			"Distance": "",
+			"RelativeURLEn": "/real-estate/22565401/1606-4460-tucana-crt-mississauga-hurontario",
+			"RelativeURLFr": "/immobilier/22565401/1606-4460-tucana-crt-mississauga"
+		},
+		{
+			"Id": "22542308",
+			"MlsNumber": "W4971880",
+			"PublicRemarks": "In Central Mississauga. Minutes To Square One, Highways, Transit, Grocery Shopping And Restaurants. Well Maintained Building!! Gym, Pool, Sauna, Tennis & Squash Courts. Maintenance Fee Including Hydro.1 Parking Space & Locker**** EXTRAS **** All Elfs, S/S Fridge, S/S Dishwasher, S/S Stove, Washer+Dryer. Laminate Flrs, . Mins To Square 1, Hwy 403, 401, Transit, Hospital, Restaurants & Malls. 24Hr Concierge Kitchen Fully Redone In 2018. All Appliances 2018. Paint 2018 (27514188)",
+			"Building": {
+				"BathroomTotal": "1",
+				"Bedrooms": "1",
+				"Type": "Apartment",
+				"Ammenities": "Storage - Locker, Party Room, Sauna, Exercise Centre"
+			},
+			"Individual": [
+				{
+					"IndividualID": 1980936,
+					"Name": "ALI KIEBADROODI",
+					"Organization": {
+						"OrganizationID": 270960,
+						"Name": "ZOLO REALTY",
+						"Logo": "https://cdn.realtor.ca/organization/en-CA/TS637395935600000000/lowres/270960.jpg",
+						"Address": {
+							"AddressText": "895 LAWRENCE AVE E UNIT 202|TORONTO, Ontario M3C3L2",
+							"PermitShowAddress": true
+						},
+						"Phones": [
+							{
+								"PhoneType": "Telephone",
+								"PhoneNumber": "898-8932",
+								"AreaCode": "416",
+								"PhoneTypeId": "1"
+							},
+							{
+								"PhoneType": "Fax",
+								"PhoneNumber": "981-3248",
+								"AreaCode": "416",
+								"PhoneTypeId": "4"
+							}
+						],
+						"Emails": [
+							{
+								"ContactId": "452382991"
+							}
+						],
+						"Websites": [
+							{
+								"Website": "https://www.zolo.ca",
+								"WebsiteTypeId": "1"
+							}
+						],
+						"OrganizationType": "Firm",
+						"Designation": "Brokerage",
+						"HasEmail": true,
+						"PermitFreetextEmail": true,
+						"PermitShowListingLink": true,
+						"RelativeDetailsURL": "/office/firm/270960/zolo-realty-895-lawrence-ave-e-unit-202-toronto-ontario-m3c3l2",
+						"PhotoLastupdate": "2020-10-29 6:39:20 PM"
+					},
+					"Phones": [
+						{
+							"PhoneType": "Telephone",
+							"PhoneNumber": "898-8932",
+							"AreaCode": "416",
+							"PhoneTypeId": "1"
+						}
+					],
+					"Emails": [
+						{
+							"ContactId": "456939317"
+						}
+					],
+					"Position": "Salesperson",
+					"PermitFreetextEmail": true,
+					"FirstName": "ALI",
+					"LastName": "KIEBADROODI",
+					"CorporationDisplayTypeId": "0",
+					"PermitShowListingLink": true,
+					"RelativeDetailsURL": "/agent/1980936/ali-kiebadroodi-895-lawrence-ave-e-unit-202-toronto-ontario-m3c3l2"
+				}
+			],
+			"Property": {
+				"Price": "$399,000",
+				"Type": "Single Family",
+				"Address": {
+					"AddressText": "#206 -50 KINGSBRIDGE GARDEN CIRC|Mississauga, Ontario L5R1Y2",
+					"Longitude": "-79.6498735",
+					"Latitude": "43.602299",
+					"PermitShowAddress": true
+				},
+				"Photo": [
+					{
+						"SequenceId": "1",
+						"HighResPath": "https://cdn.realtor.ca/listings/TS637395954954030000/reb82/highres/0/w4971880_1.jpg",
+						"MedResPath": "https://cdn.realtor.ca/listings/TS637395954954030000/reb82/medres/0/w4971880_1.jpg",
+						"LowResPath": "https://cdn.realtor.ca/listings/TS637395954954030000/reb82/lowres/0/w4971880_1.jpg",
+						"LastUpdated": "2020-10-29 7:11:35 PM"
+					}
+				],
+				"Parking": [
+					{
+						"Name": "Underground"
+					}
+				],
+				"ParkingSpaceTotal": "1",
+				"TypeId": "300",
+				"OwnershipType": "Condominium/Strata",
+				"AmmenitiesNearBy": "Park, Public Transit, Schools",
+				"ConvertedPrice": "$399,000 ",
+				"OwnershipTypeGroupIds": [
+					2
+				],
+				"ParkingType": "Underground"
+			},
+			"Business": {},
+			"Land": {},
+			"PostalCode": "L5R1Y2",
+			"RelativeDetailsURL": "/real-estate/22542308/206-50-kingsbridge-garden-circ-mississauga-hurontario",
+			"StatusId": "1",
+			"PhotoChangeDateUTC": "2020-10-29 11:11:35 PM",
+			"Distance": "",
+			"RelativeURLEn": "/real-estate/22542308/206-50-kingsbridge-garden-circ-mississauga-hurontario",
+			"RelativeURLFr": "/immobilier/22542308/206-50-kingsbridge-garden-circ-mississauga"
+		}
+	],
+	"Pins": [
+		{
+			"key": "",
+			"propertyId": "22565401",
+			"count": 1,
+			"longitude": "-79.6479",
+			"latitude": "43.6008"
+		},
+		{
+			"key": "",
+			"propertyId": "22542308",
+			"count": 1,
+			"longitude": "-79.6498",
+			"latitude": "43.6022"
+		}
+	],
+	"GroupingLevel": ""
+}

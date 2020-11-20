@@ -1,0 +1,281 @@
+/*
+https://api37.realtor.ca/Listing.svc/PropertyDetails?PropertyId=22284389&ApplicationId=37&CultureId=1&HashCode=0&ReferenceNumber=N4861556
+*/
+{
+	"ErrorCode": {
+		"Id": 200,
+		"Description": "Success - OK",
+		"ProductName": "! Push to PR-Stage - Realtor API (Maintenance)^29583 + Casing issue on serialize [Wednesday, October 28, 2020 8:42:08 AM]",
+		"Version": "1.0.7606.15704"
+	},
+	"HashCode": "1747567067",
+	"Id": "22284389",
+	"MlsNumber": "N4861556",
+	"PublicRemarks": "Brand New And Clean One Bedroom Basement Apartment With Kitchen And 3 Pc Bathroom And Separate Laundry. Laminated Floors, Separate Entrance. One Car Parking In Driveway And Tenant To Pay Rent Plus 1/3 Utilities.**** EXTRAS **** Fridge, Stove, Range Hood, Washer And Dryer (27145945)",
+	"LastUpdated": "2020-08-26 7:16:23 PM",
+	"Building": {
+		"BathroomTotal": "1",
+		"Bedrooms": "1",
+		"StoriesTotal": "2",
+		"Type": "House",
+		"Age": "",
+		"BasementFeatures": "Apartment in basement",
+		"BasementType": "N/A",
+		"ConstructionStyleAttachment": "Detached",
+		"CoolingType": "Central air conditioning",
+		"ExteriorFinish": "Brick",
+		"HeatingFuel": "Natural gas",
+		"HeatingType": "Forced air (Natural gas)",
+		"Room": [
+			{
+				"Type": "Kitchen",
+				"Width": "3.32 m",
+				"Length": "2.73 m",
+				"Level": "Basement",
+				"Dimension": "2.73 m x 3.32 m"
+			},
+			{
+				"Type": "Dining room",
+				"Width": "2.98 m",
+				"Length": "2.43 m",
+				"Level": "Basement",
+				"Dimension": "2.43 m x 2.98 m"
+			},
+			{
+				"Type": "Living room",
+				"Width": "3.64 m",
+				"Length": "3.62 m",
+				"Level": "Basement",
+				"Dimension": "3.62 m x 3.64 m"
+			},
+			{
+				"Type": "Bedroom",
+				"Width": "3.56 m",
+				"Length": "3.23 m",
+				"Level": "Basement",
+				"Dimension": "3.23 m x 3.56 m"
+			}
+		],
+		"DisplayAsYears": "2",
+		"FireplacePresent": "No"
+	},
+	"Land": {},
+	"Individual": [
+		{
+			"IndividualID": 2086001,
+			"Name": "DALIA HANNOUDI-SARSAM",
+			"Organization": {
+				"OrganizationID": 51328,
+				"Name": "RE/MAX REALTRON REALTY INC.",
+				"Logo": "https://cdn.realtor.ca/organization/en-CA/TS637340661830000000/lowres/1003007.jpg",
+				"Address": {
+					"AddressText": "7646 YONGE STREET|THORNHILL, Ontario L4J1V9",
+					"PermitShowAddress": true
+				},
+				"Phones": [
+					{
+						"PhoneType": "Telephone",
+						"PhoneNumber": "764-6000",
+						"AreaCode": "905",
+						"PhoneTypeId": "1"
+					},
+					{
+						"PhoneType": "Fax",
+						"PhoneNumber": "764-1865",
+						"AreaCode": "905",
+						"PhoneTypeId": "4"
+					}
+				],
+				"OrganizationType": "Firm",
+				"Designation": "Brokerage",
+				"PermitFreetextEmail": true,
+				"PermitShowListingLink": true,
+				"RelativeDetailsURL": "/office/firm/51328/remax-realtron-realty-inc-7646-yonge-street-thornhill-ontario-l4j1v9",
+				"PhotoLastupdate": "2020-08-26 7:16:23 PM"
+			},
+			"Phones": [
+				{
+					"PhoneType": "Telephone",
+					"PhoneNumber": "764-6000",
+					"AreaCode": "905",
+					"PhoneTypeId": "1"
+				}
+			],
+			"Emails": [
+				{
+					"ContactId": "455901321"
+				}
+			],
+			"Photo": "https://cdn.realtor.ca/individual/TS637166956800000000/lowres/1359372.jpg",
+			"Position": "Salesperson",
+			"PermitFreetextEmail": true,
+			"FirstName": "DALIA",
+			"LastName": "HANNOUDI-SARSAM",
+			"CorporationDisplayTypeId": "0",
+			"PermitShowListingLink": true,
+			"RelativeDetailsURL": "/agent/2086001/dalia-hannoudi-sarsam-7646-yonge-street-thornhill-ontario-l4j1v9",
+			"AgentPhotoLastUpdated": "2020-02-07 18:08:00"
+		},
+		{
+			"IndividualID": 1503974,
+			"Name": "JALALDDIN ALAEE",
+			"Organization": {
+				"OrganizationID": 51328,
+				"Name": "RE/MAX REALTRON REALTY INC.",
+				"Logo": "https://cdn.realtor.ca/organization/en-CA/TS637340661830000000/lowres/1003007.jpg",
+				"Address": {
+					"PermitShowAddress": false
+				},
+				"Phones": [
+					{
+						"PhoneType": "Telephone",
+						"PhoneNumber": "764-6000",
+						"AreaCode": "905",
+						"PhoneTypeId": "1"
+					},
+					{
+						"PhoneType": "Fax",
+						"PhoneNumber": "764-1865",
+						"AreaCode": "905",
+						"PhoneTypeId": "4"
+					}
+				],
+				"OrganizationType": "Firm",
+				"Designation": "Brokerage",
+				"PermitFreetextEmail": true,
+				"PermitShowListingLink": true,
+				"RelativeDetailsURL": "/office/firm/51328/remax-realtron-realty-inc-7646-yonge-street-thornhill-ontario-l4j1v9",
+				"PhotoLastupdate": "2020-08-26 7:16:23 PM"
+			},
+			"Phones": [
+				{
+					"PhoneType": "Telephone",
+					"PhoneNumber": "764-6000",
+					"AreaCode": "905",
+					"PhoneTypeId": "1"
+				}
+			],
+			"Emails": [
+				{
+					"ContactId": "455721628"
+				}
+			],
+			"Photo": "https://cdn.realtor.ca/individual/lowres/1503974.jpg",
+			"Position": "Salesperson",
+			"PermitFreetextEmail": true,
+			"FirstName": "JALALDDIN",
+			"LastName": "ALAEE",
+			"CorporationDisplayTypeId": "0",
+			"PermitShowListingLink": true,
+			"RelativeDetailsURL": "/agent/1503974/jalalddin-alaee"
+		}
+	],
+	"Property": {
+		"LeaseRent": "$1,500/Monthly",
+		"Type": "Single Family",
+		"Address": {
+			"AddressText": "159 DAWLISH AVE|Aurora, Ontario L4G6R2",
+			"Longitude": "-79.4801572",
+			"Latitude": "43.9671887",
+			"CommunityName": "Aurora Highlands",
+			"PermitShowAddress": true
+		},
+		"Photo": [
+			{
+				"SequenceId": "1",
+				"HighResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/highres/6/n4861556_1.jpg",
+				"MedResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/medres/6/n4861556_1.jpg",
+				"LowResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/lowres/6/n4861556_1.jpg",
+				"LastUpdated": "2020-08-26 7:16:23 PM"
+			},
+			{
+				"SequenceId": "2",
+				"HighResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/highres/6/n4861556_2.jpg",
+				"MedResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/medres/6/n4861556_2.jpg",
+				"LowResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/lowres/6/n4861556_2.jpg",
+				"LastUpdated": "2020-08-26 7:16:23 PM"
+			},
+			{
+				"SequenceId": "3",
+				"HighResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/highres/6/n4861556_3.jpg",
+				"MedResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/medres/6/n4861556_3.jpg",
+				"LowResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/lowres/6/n4861556_3.jpg",
+				"LastUpdated": "2020-08-26 7:16:23 PM"
+			},
+			{
+				"SequenceId": "4",
+				"HighResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/highres/6/n4861556_4.jpg",
+				"MedResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/medres/6/n4861556_4.jpg",
+				"LowResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/lowres/6/n4861556_4.jpg",
+				"LastUpdated": "2020-08-26 7:16:23 PM"
+			},
+			{
+				"SequenceId": "5",
+				"HighResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/highres/6/n4861556_5.jpg",
+				"MedResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/medres/6/n4861556_5.jpg",
+				"LowResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/lowres/6/n4861556_5.jpg",
+				"LastUpdated": "2020-08-26 7:16:23 PM"
+			},
+			{
+				"SequenceId": "6",
+				"HighResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/highres/6/n4861556_6.jpg",
+				"MedResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/medres/6/n4861556_6.jpg",
+				"LowResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/lowres/6/n4861556_6.jpg",
+				"LastUpdated": "2020-08-26 7:16:23 PM"
+			},
+			{
+				"SequenceId": "7",
+				"HighResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/highres/6/n4861556_7.jpg",
+				"MedResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/medres/6/n4861556_7.jpg",
+				"LowResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/lowres/6/n4861556_7.jpg",
+				"LastUpdated": "2020-08-26 7:16:23 PM"
+			},
+			{
+				"SequenceId": "8",
+				"HighResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/highres/6/n4861556_8.jpg",
+				"MedResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/medres/6/n4861556_8.jpg",
+				"LowResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/lowres/6/n4861556_8.jpg",
+				"LastUpdated": "2020-08-26 7:16:23 PM"
+			},
+			{
+				"SequenceId": "9",
+				"HighResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/highres/6/n4861556_9.jpg",
+				"MedResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/medres/6/n4861556_9.jpg",
+				"LowResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/lowres/6/n4861556_9.jpg",
+				"LastUpdated": "2020-08-26 7:16:23 PM"
+			},
+			{
+				"SequenceId": "10",
+				"HighResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/highres/6/n4861556_10.jpg",
+				"MedResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/medres/6/n4861556_10.jpg",
+				"LowResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/lowres/6/n4861556_10.jpg",
+				"LastUpdated": "2020-08-26 7:16:23 PM"
+			},
+			{
+				"SequenceId": "11",
+				"HighResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/highres/6/n4861556_11.jpg",
+				"MedResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/medres/6/n4861556_11.jpg",
+				"LowResPath": "https://cdn.realtor.ca/listing/TS637340661833500000/reb82/lowres/6/n4861556_11.jpg",
+				"LastUpdated": "2020-08-26 7:16:23 PM"
+			}
+		],
+		"Parking": [
+			{
+				"Name": "Attached Garage"
+			}
+		],
+		"ParkingSpaceTotal": "1",
+		"TypeId": "300",
+		"OwnershipType": "Freehold",
+		"OwnershipTypeGroupIds": [
+			1
+		],
+		"ParkingType": "Attached Garage",
+		"Features": "Ravine",
+		"TransactionType": "For rent"
+	},
+	"UploadedBy": "Toronto Regional Real Estate Board",
+	"Business": {},
+	"RelativeURLEn": "/real-estate/22284389/159-dawlish-ave-aurora-aurora-highlands",
+	"RelativeURLFr": "/immobilier/22284389/159-dawlish-ave-aurora"
+}

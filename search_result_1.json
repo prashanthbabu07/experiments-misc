@@ -1,0 +1,2134 @@
+/*
+CultureId:1
+ApplicationId:1
+PropertySearchTypeId:1
+organizationID: 51328
+*/
+{
+	"ErrorCode": {
+		"Id": 200,
+		"Description": "Success - OK",
+		"Status": "Pins-Via-Cache:false;Sidebar-Items-Via-Cache:0;",
+		"ProductName": "! Push to PR-Stage - Realtor API (Maintenance)^29583 + Casing issue on serialize [Wednesday, October 28, 2020 8:42:08 AM]",
+		"Version": "1.0.7606.15704"
+	},
+	"Paging": {
+		"RecordsPerPage": 9,
+		"CurrentPage": 1,
+		"TotalRecords": 135,
+		"MaxRecords": 500,
+		"TotalPages": 15,
+		"RecordsShowing": 135,
+		"Pins": 135
+	},
+	"Results": [
+		{
+			"Id": "22284389",
+			"MlsNumber": "N4861556",
+			"PublicRemarks": "Brand New And Clean One Bedroom Basement Apartment With Kitchen And 3 Pc Bathroom And Separate Laundry. Laminated Floors, Separate Entrance. One Car Parking In Driveway And Tenant To Pay Rent Plus 1/3 Utilities.**** EXTRAS **** Fridge, Stove, Range Hood, Washer And Dryer (27145945)",
+			"Building": {
+				"BathroomTotal": "1",
+				"Bedrooms": "1",
+				"StoriesTotal": "2",
+				"Type": "House"
+			},
+			"Individual": [
+				{
+					"IndividualID": 2086001,
+					"Name": "DALIA HANNOUDI-SARSAM",
+					"Organization": {
+						"OrganizationID": 51328,
+						"Name": "RE/MAX REALTRON REALTY INC.",
+						"Logo": "https://cdn.realtor.ca/organization/en-CA/TS637340661830000000/lowres/1003007.jpg",
+						"Address": {
+							"AddressText": "7646 YONGE STREET|THORNHILL, Ontario L4J1V9",
+							"PermitShowAddress": true
+						},
+						"Phones": [
+							{
+								"PhoneType": "Telephone",
+								"PhoneNumber": "764-6000",
+								"AreaCode": "905",
+								"PhoneTypeId": "1"
+							},
+							{
+								"PhoneType": "Fax",
+								"PhoneNumber": "764-1865",
+								"AreaCode": "905",
+								"PhoneTypeId": "4"
+							}
+						],
+						"OrganizationType": "Firm",
+						"Designation": "Brokerage",
+						"PermitFreetextEmail": true,
+						"PermitShowListingLink": true,
+						"RelativeDetailsURL": "/office/firm/51328/remax-realtron-realty-inc-7646-yonge-street-thornhill-ontario-l4j1v9",
+						"PhotoLastupdate": "2020-08-26 7:16:23 PM"
+					},
+					"Phones": [
+						{
+							"PhoneType": "Telephone",
+							"PhoneNumber": "764-6000",
+							"AreaCode": "905",
+							"PhoneTypeId": "1"
+						}
+					],
+					"Emails": [
+						{
+							"ContactId": "455901321"
+						}
+					],
+					"Photo": "https://cdn.realtor.ca/individual/TS637166956800000000/lowres/1359372.jpg",
+					"Position": "Salesperson",
+					"PermitFreetextEmail": true,
+					"FirstName": "DALIA",
+					"LastName": "HANNOUDI-SARSAM",
+					"CorporationDisplayTypeId": "0",
+					"PermitShowListingLink": true,
+					"RelativeDetailsURL": "/agent/2086001/dalia-hannoudi-sarsam-7646-yonge-street-thornhill-ontario-l4j1v9",
+					"AgentPhotoLastUpdated": "2020-02-07 18:08:00"
+				},
+				{
+					"IndividualID": 1503974,
+					"Name": "JALALDDIN ALAEE",
+					"Organization": {
+						"OrganizationID": 51328,
+						"Name": "RE/MAX REALTRON REALTY INC.",
+						"Logo": "https://cdn.realtor.ca/organization/en-CA/TS637340661830000000/lowres/1003007.jpg",
+						"Address": {
+							"PermitShowAddress": false
+						},
+						"Phones": [
+							{
+								"PhoneType": "Telephone",
+								"PhoneNumber": "764-6000",
+								"AreaCode": "905",
+								"PhoneTypeId": "1"
+							},
+							{
+								"PhoneType": "Fax",
+								"PhoneNumber": "764-1865",
+								"AreaCode": "905",
+								"PhoneTypeId": "4"
+							}
+						],
+						"OrganizationType": "Firm",
+						"Designation": "Brokerage",
+						"PermitFreetextEmail": true,
+						"PermitShowListingLink": true,
+						"RelativeDetailsURL": "/office/firm/51328/remax-realtron-realty-inc-7646-yonge-street-thornhill-ontario-l4j1v9",
+						"PhotoLastupdate": "2020-08-26 7:16:23 PM"
+					},
+					"Phones": [
+						{
+							"PhoneType": "Telephone",
+							"PhoneNumber": "764-6000",
+							"AreaCode": "905",
+							"PhoneTypeId": "1"
+						}
+					],
+					"Emails": [
+						{
+							"ContactId": "455721628"
+						}
+					],
+					"Photo": "https://cdn.realtor.ca/individuals/lowres/1503974.jpg",
+					"Position": "Salesperson",
+					"PermitFreetextEmail": true,
+					"FirstName": "JALALDDIN",
+					"LastName": "ALAEE",
+					"CorporationDisplayTypeId": "0",
+					"PermitShowListingLink": true,
+					"RelativeDetailsURL": "/agent/1503974/jalalddin-alaee"
+				}
+			],
+			"Property": {
+				"LeaseRent": "$1,500/Monthly",
+				"Type": "Single Family",
+				"Address": {
+					"AddressText": "159 DAWLISH AVE|Aurora, Ontario L4G6R2",
+					"Longitude": "-79.4801572",
+					"Latitude": "43.9671887",
+					"PermitShowAddress": true
+				},
+				"Photo": [
+					{
+						"SequenceId": "1",
+						"HighResPath": "https://cdn.realtor.ca/listings/TS637340661833500000/reb82/highres/6/n4861556_1.jpg",
+						"MedResPath": "https://cdn.realtor.ca/listings/TS637340661833500000/reb82/medres/6/n4861556_1.jpg",
+						"LowResPath": "https://cdn.realtor.ca/listings/TS637340661833500000/reb82/lowres/6/n4861556_1.jpg",
+						"LastUpdated": "2020-08-26 7:16:23 PM"
+					}
+				],
+				"Parking": [
+					{
+						"Name": "Attached Garage"
+					}
+				],
+				"ParkingSpaceTotal": "1",
+				"TypeId": "300",
+				"OwnershipType": "Freehold",
+				"ConvertedPrice": " $1,500/Monthly",
+				"OwnershipTypeGroupIds": [
+					1
+				],
+				"ParkingType": "Attached Garage"
+			},
+			"Business": {},
+			"Land": {},
+			"PostalCode": "L4G6R2",
+			"RelativeDetailsURL": "/real-estate/22284389/159-dawlish-ave-aurora-aurora-highlands",
+			"StatusId": "1",
+			"PhotoChangeDateUTC": "2020-08-26 11:16:23 PM",
+			"Distance": "",
+			"RelativeURLEn": "/real-estate/22284389/159-dawlish-ave-aurora-aurora-highlands",
+			"RelativeURLFr": "/immobilier/22284389/159-dawlish-ave-aurora"
+		},
+		{
+			"Id": "22305513",
+			"MlsNumber": "C4893543",
+			"PublicRemarks": "Beautiful 1 Bedroom + Den In Luxury Building. Oversized Balcony Facing East, Clear View. Luxurious Contemporary Features. 9 Feet Ceiling, Wall To Wall And Floor To Ceiling Windows. 1 Locker Included. Open Concept Kitchen W Ith Appliances, Granite Counter. Engineered Hardwood Floors Thruout. Upscale Lobby, 24 Hr Concierge, Indoor Pool, Gym, Party Room, Yoga Room. Close To Hospitals, Financial District, U Of T, Queens Park, Subway, Underground Shopping**** EXTRAS **** Top Of The Line Built In Appliances: Paneled Fridge And Dishwasher, Glass Cooktop, Stainless Steel Stove, Stainless Steel Range Hood, Stainless Steel Microwave. Washer, Dryer. All Elfs, All Window Coverings. 1 Locker Included. (27199056)",
+			"Building": {
+				"BathroomTotal": "1",
+				"Bedrooms": "1 + 1",
+				"Type": "Apartment",
+				"Ammenities": "Storage - Locker"
+			},
+			"Individual": [
+				{
+					"IndividualID": 1405271,
+					"Name": "MILA GURFINKEL",
+					"Organization": {
+						"OrganizationID": 51328,
+						"Name": "RE/MAX REALTRON REALTY INC.",
+						"Logo": "https://cdn.realtor.ca/organization/en-CA/TS637345670760000000/lowres/1003007.jpg",
+						"Address": {
+							"AddressText": "7646 YONGE STREET|THORNHILL, Ontario L4J1V9",
+							"PermitShowAddress": true
+						},
+						"Phones": [
+							{
+								"PhoneType": "Telephone",
+								"PhoneNumber": "764-6000",
+								"AreaCode": "905",
+								"PhoneTypeId": "1"
+							},
+							{
+								"PhoneType": "Fax",
+								"PhoneNumber": "764-1865",
+								"AreaCode": "905",
+								"PhoneTypeId": "4"
+							}
+						],
+						"OrganizationType": "Firm",
+						"Designation": "Brokerage",
+						"PermitFreetextEmail": true,
+						"PermitShowListingLink": true,
+						"RelativeDetailsURL": "/office/firm/51328/remax-realtron-realty-inc-7646-yonge-street-thornhill-ontario-l4j1v9",
+						"PhotoLastupdate": "2020-09-01 2:24:36 PM"
+					},
+					"Phones": [
+						{
+							"PhoneType": "Telephone",
+							"PhoneNumber": "764-6000",
+							"AreaCode": "905",
+							"PhoneTypeId": "1"
+						}
+					],
+					"Websites": [
+						{
+							"Website": "http://www.milagurfinkel.com",
+							"WebsiteTypeId": "1"
+						}
+					],
+					"Emails": [
+						{
+							"ContactId": "455712299"
+						}
+					],
+					"Photo": "https://cdn.realtor.ca/individuals/lowres/1405271.jpg",
+					"Position": "Salesperson",
+					"PermitFreetextEmail": true,
+					"FirstName": "MILA",
+					"LastName": "GURFINKEL",
+					"CorporationDisplayTypeId": "0",
+					"PermitShowListingLink": true,
+					"RelativeDetailsURL": "/agent/1405271/mila-gurfinkel-7646-yonge-street-thornhill-ontario-l4j1v9"
+				},
+				{
+					"IndividualID": 1848145,
+					"Name": "DANNY GURFINKEL",
+					"Organization": {
+						"OrganizationID": 51328,
+						"Name": "RE/MAX REALTRON REALTY INC.",
+						"Logo": "https://cdn.realtor.ca/organization/en-CA/TS637345670760000000/lowres/1003007.jpg",
+						"Address": {
+							"AddressText": "7646 YONGE STREET|THORNHILL, Ontario L4J1V9",
+							"PermitShowAddress": true
+						},
+						"Phones": [
+							{
+								"PhoneType": "Telephone",
+								"PhoneNumber": "764-6000",
+								"AreaCode": "905",
+								"PhoneTypeId": "1"
+							},
+							{
+								"PhoneType": "Fax",
+								"PhoneNumber": "764-1865",
+								"AreaCode": "905",
+								"PhoneTypeId": "4"
+							}
+						],
+						"OrganizationType": "Firm",
+						"Designation": "Brokerage",
+						"PermitFreetextEmail": true,
+						"PermitShowListingLink": true,
+						"RelativeDetailsURL": "/office/firm/51328/remax-realtron-realty-inc-7646-yonge-street-thornhill-ontario-l4j1v9",
+						"PhotoLastupdate": "2020-09-01 2:24:36 PM"
+					},
+					"Phones": [
+						{
+							"PhoneType": "Telephone",
+							"PhoneNumber": "881-7653",
+							"AreaCode": "905",
+							"PhoneTypeId": "1"
+						}
+					],
+					"Websites": [
+						{
+							"Website": "http://www.dannygurfinkel.com",
+							"WebsiteTypeId": "1"
+						},
+						{
+							"Website": "https://www.facebook.com/dannygrealestate",
+							"WebsiteTypeId": "2"
+						}
+					],
+					"Emails": [
+						{
+							"ContactId": "455757252"
+						}
+					],
+					"Photo": "https://cdn.realtor.ca/individuals/lowres/1848145.jpg",
+					"Position": "Salesperson",
+					"PermitFreetextEmail": true,
+					"FirstName": "DANNY",
+					"LastName": "GURFINKEL",
+					"CorporationDisplayTypeId": "0",
+					"PermitShowListingLink": true,
+					"RelativeDetailsURL": "/agent/1848145/danny-gurfinkel-7646-yonge-street-thornhill-ontario-l4j1v9"
+				}
+			],
+			"Property": {
+				"LeaseRent": "$2,100/Monthly",
+				"Type": "Single Family",
+				"Address": {
+					"AddressText": "#603 -770 BAY ST|Toronto, Ontario M5G1N6",
+					"Longitude": "-79.3858692",
+					"Latitude": "43.6601367",
+					"PermitShowAddress": true
+				},
+				"Photo": [
+					{
+						"SequenceId": "1",
+						"HighResPath": "https://cdn.realtor.ca/listings/TS637345676747530000/reb82/highres/3/c4893543_1.jpg",
+						"MedResPath": "https://cdn.realtor.ca/listings/TS637345676747530000/reb82/medres/3/c4893543_1.jpg",
+						"LowResPath": "https://cdn.realtor.ca/listings/TS637345676747530000/reb82/lowres/3/c4893543_1.jpg",
+						"LastUpdated": "2020-09-01 2:34:34 PM"
+					}
+				],
+				"TypeId": "300",
+				"OwnershipType": "Condominium/Strata",
+				"ConvertedPrice": " $2,100/Monthly",
+				"OwnershipTypeGroupIds": [
+					2
+				]
+			},
+			"Business": {},
+			"Land": {},
+			"PostalCode": "M5G1N6",
+			"RelativeDetailsURL": "/real-estate/22305513/603-770-bay-st-toronto-bay-street-corridor",
+			"StatusId": "1",
+			"PhotoChangeDateUTC": "2020-09-01 6:34:34 PM",
+			"Distance": "",
+			"RelativeURLEn": "/real-estate/22305513/603-770-bay-st-toronto-bay-street-corridor",
+			"RelativeURLFr": "/immobilier/22305513/603-770-bay-st-toronto"
+		},
+		{
+			"Id": "22452390",
+			"MlsNumber": "C4941353",
+			"PublicRemarks": "Amazing Condo At Luna Vista In Cityplace! South-West Corner With Lake And Park View, 2 Bedrooms, 2 Bathrooms, 838 Sf + 152 Sf Balcony As Per Builder's Plan. Large Balcony, Floor-To-Ceiling Windows, Lots Of Light! Resort-Style Amenities W/Infinity Outdoor Pool, Gym, Yoga Room, Party Room, Guest Suites, Bbq. Sobeys Supermarket Next Door! Steps To Transit, Banks And City Life! Waterfront, Cn Tower, Rogers Centre, Park! Easy Highway Access. 24-Hrsecurity**** EXTRAS **** Stainless Steel Fridge, Stove, B/I Dishwasher, B/I Microwave, Stacked Washer/Dryer, All Elf's, All Window Coverings.1 Parking & 1 Locker. 24Hr Security. (27393743)",
+			"Building": {
+				"BathroomTotal": "2",
+				"Bedrooms": "2",
+				"Type": "Apartment",
+				"Ammenities": "Storage - Locker, Security/Concierge, Exercise Centre, Recreation Centre"
+			},
+			"Individual": [
+				{
+					"IndividualID": 2033183,
+					"Name": "AARON WAN",
+					"Organization": {
+						"OrganizationID": 51328,
+						"Name": "RE/MAX REALTRON REALTY INC.",
+						"Logo": "https://cdn.realtor.ca/organization/en-CA/TS637375196400000000/lowres/1003007.jpg",
+						"Address": {
+							"AddressText": "7646 YONGE STREET|THORNHILL, Ontario L4J1V9",
+							"PermitShowAddress": true
+						},
+						"Phones": [
+							{
+								"PhoneType": "Telephone",
+								"PhoneNumber": "764-6000",
+								"AreaCode": "905",
+								"PhoneTypeId": "1"
+							},
+							{
+								"PhoneType": "Fax",
+								"PhoneNumber": "764-1865",
+								"AreaCode": "905",
+								"PhoneTypeId": "4"
+							}
+						],
+						"OrganizationType": "Firm",
+						"Designation": "Brokerage",
+						"PermitFreetextEmail": true,
+						"PermitShowListingLink": true,
+						"RelativeDetailsURL": "/office/firm/51328/remax-realtron-realty-inc-7646-yonge-street-thornhill-ontario-l4j1v9",
+						"PhotoLastupdate": "2020-10-05 6:34:00 PM"
+					},
+					"Phones": [
+						{
+							"PhoneType": "Telephone",
+							"PhoneNumber": "764-6000",
+							"AreaCode": "905",
+							"PhoneTypeId": "1"
+						}
+					],
+					"Emails": [
+						{
+							"ContactId": "455856539"
+						}
+					],
+					"Position": "Salesperson",
+					"PermitFreetextEmail": true,
+					"FirstName": "AARON",
+					"LastName": "WAN",
+					"CorporationDisplayTypeId": "0",
+					"PermitShowListingLink": true,
+					"RelativeDetailsURL": "/agent/2033183/aaron-wan-7646-yonge-street-thornhill-ontario-l4j1v9"
+				}
+			],
+			"Property": {
+				"LeaseRent": "$2,650/Monthly",
+				"Type": "Single Family",
+				"Address": {
+					"AddressText": "#1909 -25 CAPREOL CRT|Toronto, Ontario M5V3Z7",
+					"Longitude": "-79.3956929",
+					"Latitude": "43.6406584",
+					"PermitShowAddress": true
+				},
+				"Photo": [
+					{
+						"SequenceId": "1",
+						"HighResPath": "https://cdn.realtor.ca/listings/TS637375214276200000/reb82/highres/3/c4941353_1.jpg",
+						"MedResPath": "https://cdn.realtor.ca/listings/TS637375214276200000/reb82/medres/3/c4941353_1.jpg",
+						"LowResPath": "https://cdn.realtor.ca/listings/TS637375214276200000/reb82/lowres/3/c4941353_1.jpg",
+						"LastUpdated": "2020-10-05 7:03:47 PM"
+					}
+				],
+				"Parking": [
+					{
+						"Name": "Underground"
+					}
+				],
+				"ParkingSpaceTotal": "1",
+				"TypeId": "300",
+				"OwnershipType": "Condominium/Strata",
+				"ConvertedPrice": " $2,650/Monthly",
+				"OwnershipTypeGroupIds": [
+					2
+				],
+				"ParkingType": "Underground"
+			},
+			"Business": {},
+			"Land": {},
+			"PostalCode": "M5V3Z7",
+			"RelativeDetailsURL": "/real-estate/22452390/1909-25-capreol-crt-toronto-waterfront-communities-c1",
+			"StatusId": "1",
+			"PhotoChangeDateUTC": "2020-10-05 11:03:47 PM",
+			"Distance": "",
+			"RelativeURLEn": "/real-estate/22452390/1909-25-capreol-crt-toronto-waterfront-communities-c1",
+			"RelativeURLFr": "/immobilier/22452390/1909-25-capreol-crt-toronto"
+		},
+		{
+			"Id": "22520438",
+			"MlsNumber": "C4964820",
+			"PublicRemarks": "Stunning 2 Bdrm 2 Bath Corner Suite In The Heart Of The City. Features Floor To Ceiling South Facing Windows W/Clear Views Of The Lake! Bright & Spacious This Condo Has 762 Sq Ft Plus A 36 Sq Ft Private Balcony. Generous Room Sizes & Large Closets. Steps To Harbourfront, Cn Tower, Union Stn, Rogers Centre, Acc, Entertainment/Financial Districts, Restaurants, Sobeys, Patios And More! Newly Renovated Throughout-Montage At Cityplace Has Extremely Low Maint Fees.**** EXTRAS **** Modern Open Concept, Granite Kitchen Countertop, Hardwood Flooring. Appliances Include Brand New Fridge, Stove, Dishwasher, Microwave/ Hood Fan, Stacked Washer/ Dryer. (27485258)",
+			"Building": {
+				"BathroomTotal": "2",
+				"Bedrooms": "2",
+				"Type": "Apartment",
+				"Ammenities": "Storage - Locker, Security/Concierge, Sauna, Exercise Centre"
+			},
+			"Individual": [
+				{
+					"IndividualID": 2033183,
+					"Name": "AARON WAN",
+					"Organization": {
+						"OrganizationID": 51328,
+						"Name": "RE/MAX REALTRON REALTY INC.",
+						"Logo": "https://cdn.realtor.ca/organization/en-CA/TS637390369710000000/lowres/1003007.jpg",
+						"Address": {
+							"AddressText": "7646 YONGE STREET|THORNHILL, Ontario L4J1V9",
+							"PermitShowAddress": true
+						},
+						"Phones": [
+							{
+								"PhoneType": "Telephone",
+								"PhoneNumber": "764-6000",
+								"AreaCode": "905",
+								"PhoneTypeId": "1"
+							},
+							{
+								"PhoneType": "Fax",
+								"PhoneNumber": "764-1865",
+								"AreaCode": "905",
+								"PhoneTypeId": "4"
+							}
+						],
+						"OrganizationType": "Firm",
+						"Designation": "Brokerage",
+						"PermitFreetextEmail": true,
+						"PermitShowListingLink": true,
+						"RelativeDetailsURL": "/office/firm/51328/remax-realtron-realty-inc-7646-yonge-street-thornhill-ontario-l4j1v9",
+						"PhotoLastupdate": "2020-10-23 8:02:51 AM"
+					},
+					"Phones": [
+						{
+							"PhoneType": "Telephone",
+							"PhoneNumber": "764-6000",
+							"AreaCode": "905",
+							"PhoneTypeId": "1"
+						}
+					],
+					"Emails": [
+						{
+							"ContactId": "455856539"
+						}
+					],
+					"Position": "Salesperson",
+					"PermitFreetextEmail": true,
+					"FirstName": "AARON",
+					"LastName": "WAN",
+					"CorporationDisplayTypeId": "0",
+					"PermitShowListingLink": true,
+					"RelativeDetailsURL": "/agent/2033183/aaron-wan-7646-yonge-street-thornhill-ontario-l4j1v9"
+				}
+			],
+			"Property": {
+				"LeaseRent": "$2,600/Monthly",
+				"Type": "Single Family",
+				"Address": {
+					"AddressText": "#1809 -25 TELEGRAM MEWS|Toronto, Ontario M5V3Z1",
+					"Longitude": "-79.394228",
+					"Latitude": "43.6411197",
+					"PermitShowAddress": true
+				},
+				"Photo": [
+					{
+						"SequenceId": "1",
+						"HighResPath": "https://cdn.realtor.ca/listings/TS637390374248900000/reb82/highres/0/c4964820_1.jpg",
+						"MedResPath": "https://cdn.realtor.ca/listings/TS637390374248900000/reb82/medres/0/c4964820_1.jpg",
+						"LowResPath": "https://cdn.realtor.ca/listings/TS637390374248900000/reb82/lowres/0/c4964820_1.jpg",
+						"LastUpdated": "2020-10-23 8:10:24 AM"
+					}
+				],
+				"Parking": [
+					{
+						"Name": "Underground"
+					}
+				],
+				"ParkingSpaceTotal": "1",
+				"TypeId": "300",
+				"OwnershipType": "Condominium/Strata",
+				"ConvertedPrice": " $2,600/Monthly",
+				"OwnershipTypeGroupIds": [
+					2
+				],
+				"ParkingType": "Underground"
+			},
+			"Business": {},
+			"Land": {},
+			"PostalCode": "M5V3Z1",
+			"RelativeDetailsURL": "/real-estate/22520438/1809-25-telegram-mews-toronto-waterfront-communities-c1",
+			"StatusId": "1",
+			"PhotoChangeDateUTC": "2020-10-23 12:10:25 PM",
+			"Distance": "",
+			"RelativeURLEn": "/real-estate/22520438/1809-25-telegram-mews-toronto-waterfront-communities-c1",
+			"RelativeURLFr": "/immobilier/22520438/1809-25-telegram-mews-toronto"
+		},
+		{
+			"Id": "22544849",
+			"MlsNumber": "N4972677",
+			"PublicRemarks": "Beautiful 3 Bedroom Home, Main Floor Only. Minutes To 404/Yonge, Shopping And More. Safe And Friendly Neighbourhood.   Updated Kitchen. Well Kept . A Place You Can Call \"\"Home\"\"Close To All Amenities And 404 For Easy Commute.**** EXTRAS **** Fridge, Stove, B/I Dishwasher,Washer And Dryer. (27517526)",
+			"Building": {
+				"BathroomTotal": "2",
+				"Bedrooms": "3",
+				"Type": "House"
+			},
+			"Individual": [
+				{
+					"IndividualID": 1570913,
+					"Name": "MARJAN ESKANDARI",
+					"Organization": {
+						"OrganizationID": 51328,
+						"Name": "RE/MAX REALTRON REALTY INC.",
+						"Logo": "https://cdn.realtor.ca/organization/en-CA/TS637396797340000000/lowres/1003007.jpg",
+						"Address": {
+							"AddressText": "7646 YONGE STREET|THORNHILL, Ontario L4J1V9",
+							"PermitShowAddress": true
+						},
+						"Phones": [
+							{
+								"PhoneType": "Telephone",
+								"PhoneNumber": "764-6000",
+								"AreaCode": "905",
+								"PhoneTypeId": "1"
+							},
+							{
+								"PhoneType": "Fax",
+								"PhoneNumber": "764-1865",
+								"AreaCode": "905",
+								"PhoneTypeId": "4"
+							}
+						],
+						"OrganizationType": "Firm",
+						"Designation": "Brokerage",
+						"PermitFreetextEmail": true,
+						"PermitShowListingLink": true,
+						"RelativeDetailsURL": "/office/firm/51328/remax-realtron-realty-inc-7646-yonge-street-thornhill-ontario-l4j1v9",
+						"PhotoLastupdate": "2020-10-30 6:35:34 PM"
+					},
+					"Phones": [
+						{
+							"PhoneType": "Telephone",
+							"PhoneNumber": "764-6000",
+							"AreaCode": "905",
+							"PhoneTypeId": "1"
+						}
+					],
+					"Emails": [
+						{
+							"ContactId": "455729667"
+						}
+					],
+					"Position": "Salesperson",
+					"PermitFreetextEmail": true,
+					"FirstName": "MARJAN",
+					"LastName": "ESKANDARI",
+					"CorporationDisplayTypeId": "0",
+					"PermitShowListingLink": true,
+					"RelativeDetailsURL": "/agent/1570913/marjan-eskandari-7646-yonge-street-thornhill-ontario-l4j1v9"
+				}
+			],
+			"Property": {
+				"LeaseRent": "$2,400/Monthly",
+				"Type": "Single Family",
+				"Address": {
+					"AddressText": "109 EASTMAN CRES|Newmarket, Ontario L3Y5S3",
+					"Longitude": "-79.443644",
+					"Latitude": "44.0645498",
+					"PermitShowAddress": true
+				},
+				"Photo": [
+					{
+						"SequenceId": "1",
+						"HighResPath": "https://cdn.realtor.ca/listings/TS637396691848470000/reb82/highres/7/n4972677_1.jpg",
+						"MedResPath": "https://cdn.realtor.ca/listings/TS637396691848470000/reb82/medres/7/n4972677_1.jpg",
+						"LowResPath": "https://cdn.realtor.ca/listings/TS637396691848470000/reb82/lowres/7/n4972677_1.jpg",
+						"LastUpdated": "2020-10-30 3:39:44 PM"
+					}
+				],
+				"Parking": [
+					{
+						"Name": "Attached Garage"
+					}
+				],
+				"ParkingSpaceTotal": "1",
+				"TypeId": "300",
+				"OwnershipType": "Freehold",
+				"ConvertedPrice": " $2,400/Monthly",
+				"OwnershipTypeGroupIds": [
+					1
+				],
+				"ParkingType": "Attached Garage"
+			},
+			"Business": {},
+			"Land": {},
+			"PostalCode": "L3Y5S3",
+			"RelativeDetailsURL": "/real-estate/22544849/109-eastman-cres-newmarket-huron-heights-leslie-valley",
+			"StatusId": "1",
+			"PhotoChangeDateUTC": "2020-10-30 7:39:44 PM",
+			"Distance": "",
+			"RelativeURLEn": "/real-estate/22544849/109-eastman-cres-newmarket-huron-heights-leslie-valley",
+			"RelativeURLFr": "/immobilier/22544849/109-eastman-cres-newmarket"
+		},
+		{
+			"Id": "22576848",
+			"MlsNumber": "E4984069",
+			"PublicRemarks": "Welcome To Paradise, Absolutely Gorgeous Rarely Offered, Custom Built Home On Prestigious Greenwood Rd. 5Brs Executive Country Living In The City. 2 Acres Lot Of Private Park O/L Conservation Area W/Panoramic Views, Quality Upgrades: Masterclass Kitchen With S/S Appliances, Granite Counter Tops, Brand New Hrdwd & Carpet, Inground Pool, Custom Gazebo, Outdoor Fireplace, True Art Of Entertaining & Living, Recently Upgraded. No Pets & Non Smoker Please.**** EXTRAS **** All S/S Appls,Wine Cooler,New Mn Flr Laundry & Trtmnt Sys.All Utilities Incld,Landlord Will Pay:Snow Removal,Lawn Care,Pool Mntance,Water Filter Sys, High Speed Internet.Can Be Leased Furnished For $9500,Bsmnt Washer & Dryer & Hot Tub As Is (27560917)",
+			"Building": {
+				"BathroomTotal": "2",
+				"Bedrooms": "5 + 1",
+				"StoriesTotal": "1",
+				"Type": "House"
+			},
+			"Individual": [
+				{
+					"IndividualID": 1680018,
+					"Name": "SAEID BOKHARAIE",
+					"Organization": {
+						"OrganizationID": 51328,
+						"Name": "RE/MAX REALTRON REALTY INC.",
+						"Logo": "https://cdn.realtor.ca/organization/en-CA/TS637405439220000000/lowres/1003007.jpg",
+						"Address": {
+							"AddressText": "7646 YONGE STREET|THORNHILL, Ontario L4J1V9",
+							"PermitShowAddress": true
+						},
+						"Phones": [
+							{
+								"PhoneType": "Telephone",
+								"PhoneNumber": "764-6000",
+								"AreaCode": "905",
+								"PhoneTypeId": "1"
+							},
+							{
+								"PhoneType": "Fax",
+								"PhoneNumber": "764-1865",
+								"AreaCode": "905",
+								"PhoneTypeId": "4"
+							}
+						],
+						"OrganizationType": "Firm",
+						"Designation": "Brokerage",
+						"PermitFreetextEmail": true,
+						"PermitShowListingLink": true,
+						"RelativeDetailsURL": "/office/firm/51328/remax-realtron-realty-inc-7646-yonge-street-thornhill-ontario-l4j1v9",
+						"PhotoLastupdate": "2020-11-09 6:38:42 PM"
+					},
+					"Phones": [
+						{
+							"PhoneType": "Telephone",
+							"PhoneNumber": "764-6000",
+							"AreaCode": "905",
+							"PhoneTypeId": "1"
+						}
+					],
+					"Websites": [
+						{
+							"Website": "http://www.saeidbokharaie.com",
+							"WebsiteTypeId": "1"
+						}
+					],
+					"Emails": [
+						{
+							"ContactId": "455741787"
+						}
+					],
+					"Photo": "https://cdn.realtor.ca/individuals/lowres/1680018.jpg",
+					"Position": "Broker",
+					"PermitFreetextEmail": true,
+					"FirstName": "SAEID",
+					"LastName": "BOKHARAIE",
+					"CorporationDisplayTypeId": "0",
+					"PermitShowListingLink": true,
+					"RelativeDetailsURL": "/agent/1680018/saeid-bokharaie-7646-yonge-street-thornhill-ontario-l4j1v9"
+				}
+			],
+			"Property": {
+				"LeaseRent": "$8,200/Monthly",
+				"Type": "Single Family",
+				"Address": {
+					"AddressText": "3255 GREENWOOD RD|Pickering, Ontario L0H1J0",
+					"Longitude": "-79.0658538",
+					"Latitude": "43.9117649",
+					"PermitShowAddress": true
+				},
+				"Photo": [
+					{
+						"SequenceId": "1",
+						"HighResPath": "https://cdn.realtor.ca/listings/TS637405447239170000/reb82/highres/9/e4984069_1.jpg",
+						"MedResPath": "https://cdn.realtor.ca/listings/TS637405447239170000/reb82/medres/9/e4984069_1.jpg",
+						"LowResPath": "https://cdn.realtor.ca/listings/TS637405447239170000/reb82/lowres/9/e4984069_1.jpg",
+						"LastUpdated": "2020-11-09 6:52:03 PM"
+					}
+				],
+				"Parking": [
+					{
+						"Name": "Garage"
+					}
+				],
+				"ParkingSpaceTotal": "12",
+				"TypeId": "300",
+				"OwnershipType": "Freehold",
+				"ConvertedPrice": " $8,200/Monthly",
+				"OwnershipTypeGroupIds": [
+					1
+				],
+				"ParkingType": "Garage"
+			},
+			"Business": {},
+			"Land": {
+				"SizeTotal": "235.75 x 415.22 FT"
+			},
+			"AlternateURL": {
+				"VideoLink": "https://openhouse.odyssey3d.ca/public/vtour/display/1666717?idx=1#!/"
+			},
+			"PostalCode": "L0H1J0",
+			"RelativeDetailsURL": "/real-estate/22576848/3255-greenwood-rd-pickering-rural-pickering",
+			"StatusId": "1",
+			"PhotoChangeDateUTC": "2020-11-09 11:52:04 PM",
+			"Distance": "",
+			"RelativeURLEn": "/real-estate/22576848/3255-greenwood-rd-pickering-rural-pickering",
+			"RelativeURLFr": "/immobilier/22576848/3255-greenwood-rd-pickering"
+		},
+		{
+			"Id": "22576869",
+			"MlsNumber": "N4983805",
+			"PublicRemarks": "Newly Renovated Basement With Modern Kitchen And S/S Appliances. Tenants Will Have Their Own Washer/Dryer, Driveway For One Car. Close To Wilcox, Nature Trails, Schools, Transit, Community Centre, Easy Access To Yonge St., Hwys And All Amenities In Richmond Hill.3 Piece Bath, Great Place Must See !**** EXTRAS **** Elf, S/S Fridge, Stove, Washer And Dryer, Tenant Pays 1/3 Of Utilities, One Parking On Drive Way. No Pets & No Smoking. (27560674)",
+			"Building": {
+				"BathroomTotal": "1",
+				"Bedrooms": "1",
+				"StoriesTotal": "2",
+				"Type": "House"
+			},
+			"Individual": [
+				{
+					"IndividualID": 2021706,
+					"Name": "ALI VAHIDI-ARBABI",
+					"Organization": {
+						"OrganizationID": 51328,
+						"Name": "RE/MAX REALTRON REALTY INC.",
+						"Logo": "https://cdn.realtor.ca/organization/en-CA/TS637405440040000000/lowres/1003007.jpg",
+						"Address": {
+							"AddressText": "7646 YONGE STREET|THORNHILL, Ontario L4J1V9",
+							"PermitShowAddress": true
+						},
+						"Phones": [
+							{
+								"PhoneType": "Telephone",
+								"PhoneNumber": "764-6000",
+								"AreaCode": "905",
+								"PhoneTypeId": "1"
+							},
+							{
+								"PhoneType": "Fax",
+								"PhoneNumber": "764-1865",
+								"AreaCode": "905",
+								"PhoneTypeId": "4"
+							}
+						],
+						"OrganizationType": "Firm",
+						"Designation": "Brokerage",
+						"PermitFreetextEmail": true,
+						"PermitShowListingLink": true,
+						"RelativeDetailsURL": "/office/firm/51328/remax-realtron-realty-inc-7646-yonge-street-thornhill-ontario-l4j1v9",
+						"PhotoLastupdate": "2020-11-09 6:40:04 PM"
+					},
+					"Phones": [
+						{
+							"PhoneType": "Telephone",
+							"PhoneNumber": "700-7939",
+							"AreaCode": "647",
+							"PhoneTypeId": "1"
+						}
+					],
+					"Emails": [
+						{
+							"ContactId": "458216081"
+						}
+					],
+					"Position": "Salesperson",
+					"PermitFreetextEmail": true,
+					"FirstName": "ALI",
+					"LastName": "VAHIDI-ARBABI",
+					"CorporationDisplayTypeId": "0",
+					"PermitShowListingLink": true,
+					"RelativeDetailsURL": "/agent/2021706/ali-vahidi-arbabi-7646-yonge-street-thornhill-ontario-l4j1v9"
+				}
+			],
+			"Property": {
+				"LeaseRent": "$1,600/Monthly",
+				"Type": "Single Family",
+				"Address": {
+					"AddressText": "#BSMT -39 WOOD RIM DR|Richmond Hill, Ontario L4E4S2",
+					"Longitude": "-79.4431604",
+					"Latitude": "43.9530883",
+					"PermitShowAddress": true
+				},
+				"Photo": [
+					{
+						"SequenceId": "1",
+						"HighResPath": "https://cdn.realtor.ca/listings/TS637405447280600000/reb82/highres/5/n4983805_1.jpg",
+						"MedResPath": "https://cdn.realtor.ca/listings/TS637405447280600000/reb82/medres/5/n4983805_1.jpg",
+						"LowResPath": "https://cdn.realtor.ca/listings/TS637405447280600000/reb82/lowres/5/n4983805_1.jpg",
+						"LastUpdated": "2020-11-09 6:52:08 PM"
+					}
+				],
+				"TypeId": "300",
+				"OwnershipType": "Freehold",
+				"ConvertedPrice": " $1,600/Monthly",
+				"OwnershipTypeGroupIds": [
+					1
+				]
+			},
+			"Business": {},
+			"Land": {},
+			"PostalCode": "L4E4S2",
+			"RelativeDetailsURL": "/real-estate/22576869/bsmt-39-wood-rim-dr-richmond-hill-oak-ridges-lake-wilcox",
+			"StatusId": "1",
+			"PhotoChangeDateUTC": "2020-11-09 11:52:08 PM",
+			"Distance": "",
+			"RelativeURLEn": "/real-estate/22576869/bsmt-39-wood-rim-dr-richmond-hill-oak-ridges-lake-wilcox",
+			"RelativeURLFr": "/immobilier/22576869/bsmt-39-wood-rim-dr-richmond-hill"
+		},
+		{
+			"Id": "22104717",
+			"MlsNumber": "C4830675",
+			"PublicRemarks": "Bright, Spacious Updated 1+1 In York Town On The Park! Come And Enjoy One Of The Toronto Most Vibrant And Desirable Neighbourhoods. Overlooking Quiet Courtyard, Fresh Paint, 24 Hrs Concierge/Security Guard, Steps To St. Lawrence Market, The Distillery District, Ttc/Subway, Great Amenities And Proximity To Shops & Restaurants.**** EXTRAS **** Fridge, Stove, B/I Dishwasher, Stacked Washer/Dryer, Window Coverings, Alfs, Excellent Amenities. (26935392)",
+			"Building": {
+				"BathroomTotal": "1",
+				"Bedrooms": "1 + 1",
+				"Type": "Apartment",
+				"Ammenities": "Security/Concierge, Party Room, Sauna, Exercise Centre"
+			},
+			"Individual": [
+				{
+					"IndividualID": 1959528,
+					"Name": "NATALIA OVSEY",
+					"Organization": {
+						"OrganizationID": 51328,
+						"Name": "RE/MAX REALTRON REALTY INC.",
+						"Logo": "https://cdn.realtor.ca/organization/en-CA/TS637334427580000000/lowres/1003007.jpg",
+						"Address": {
+							"AddressText": "7646 YONGE STREET|THORNHILL, Ontario L4J1V9",
+							"PermitShowAddress": true
+						},
+						"Phones": [
+							{
+								"PhoneType": "Telephone",
+								"PhoneNumber": "764-6000",
+								"AreaCode": "905",
+								"PhoneTypeId": "1"
+							},
+							{
+								"PhoneType": "Fax",
+								"PhoneNumber": "764-1865",
+								"AreaCode": "905",
+								"PhoneTypeId": "4"
+							}
+						],
+						"OrganizationType": "Firm",
+						"Designation": "Brokerage",
+						"PermitFreetextEmail": true,
+						"PermitShowListingLink": true,
+						"RelativeDetailsURL": "/office/firm/51328/remax-realtron-realty-inc-7646-yonge-street-thornhill-ontario-l4j1v9",
+						"PhotoLastupdate": "2020-08-19 2:05:58 PM"
+					},
+					"Phones": [
+						{
+							"PhoneType": "Telephone",
+							"PhoneNumber": "962-9311",
+							"AreaCode": "647",
+							"PhoneTypeId": "1"
+						}
+					],
+					"Websites": [
+						{
+							"Website": "http://www.nataliaovsey.com",
+							"WebsiteTypeId": "1"
+						},
+						{
+							"Website": "https://www.facebook.com/NataliaOvseyRealEstate/",
+							"WebsiteTypeId": "2"
+						},
+						{
+							"Website": "https://www.linkedin.com/in/natalia-ovsey-08149b72/",
+							"WebsiteTypeId": "3"
+						}
+					],
+					"Emails": [
+						{
+							"ContactId": "455800726"
+						}
+					],
+					"Photo": "https://cdn.realtor.ca/individual/TS636854887800000000/lowres/1250012.jpg",
+					"Position": "Salesperson",
+					"PermitFreetextEmail": true,
+					"FirstName": "NATALIA",
+					"LastName": "OVSEY",
+					"CorporationDisplayTypeId": "0",
+					"PermitShowListingLink": true,
+					"RelativeDetailsURL": "/agent/1959528/natalia-ovsey-7646-yonge-street-thornhill-ontario-l4j1v9",
+					"AgentPhotoLastUpdated": "2019-02-11 13:33:00"
+				}
+			],
+			"Property": {
+				"LeaseRent": "$1,800/Monthly",
+				"Type": "Single Family",
+				"Address": {
+					"AddressText": "#206 -222 THE ESPLANADE|Toronto, Ontario M5A4M8",
+					"Longitude": "-79.3655404",
+					"Latitude": "43.6495978",
+					"PermitShowAddress": true
+				},
+				"Photo": [
+					{
+						"SequenceId": "1",
+						"HighResPath": "https://cdn.realtor.ca/listings/TS637303973646700000/reb82/highres/5/c4830675_1.jpg",
+						"MedResPath": "https://cdn.realtor.ca/listings/TS637303973646700000/reb82/medres/5/c4830675_1.jpg",
+						"LowResPath": "https://cdn.realtor.ca/listings/TS637303973646700000/reb82/lowres/5/c4830675_1.jpg",
+						"LastUpdated": "2020-07-15 8:09:24 AM"
+					}
+				],
+				"Parking": [
+					{
+						"Name": "Underground"
+					}
+				],
+				"TypeId": "300",
+				"OwnershipType": "Condominium/Strata",
+				"AmmenitiesNearBy": "Park, Public Transit",
+				"ConvertedPrice": " $1,800/Monthly",
+				"OwnershipTypeGroupIds": [
+					2
+				],
+				"ParkingType": "Underground"
+			},
+			"Business": {},
+			"Land": {},
+			"PostalCode": "M5A4M8",
+			"RelativeDetailsURL": "/real-estate/22104717/206-222-the-esplanade-toronto-waterfront-communities-c8",
+			"StatusId": "1",
+			"PriceChangeDateUTC": "2020-08-19 6:11:29 PM",
+			"PhotoChangeDateUTC": "2020-07-15 12:09:24 PM",
+			"Distance": "",
+			"RelativeURLEn": "/real-estate/22104717/206-222-the-esplanade-toronto-waterfront-communities-c8",
+			"RelativeURLFr": "/immobilier/22104717/206-222-the-esplanade-toronto"
+		},
+		{
+			"Id": "22446719",
+			"MlsNumber": "C4939383",
+			"PublicRemarks": "Stunning Unobstructed Southwest Unit In The Financial District. Luxury Living 10 Foot Ceiling, 2 Bedrooms+ Study Room. Corner Unit At 88 Scott With World-Class Amenities Including Rooftop Space, Gym, Indoor Pool, Outdoor Dining, Two Level, Sky Lounge& Bar, Private Dining While Offering Spectacular Views. Stunning Kitchen, Energy Efficient Appliances Open Concept Sun Filled Living Dining Room W/Walk-Out To Balcony With A View Of The Lake And City**** EXTRAS **** Top Of Line B/I Appls: Fridge, Stove, Oven, Range Hood, Microwave, Dishwasher. Washer & Dryer. Light Fixtures. Elfs & Window Coverings.** One Parking, One Locker**Step To Berczy Park, St. Lawrence Market, Financial & Entertainment District (27386102)",
+			"Building": {
+				"BathroomTotal": "2",
+				"Bedrooms": "2 + 1",
+				"Type": "Apartment",
+				"Ammenities": "Storage - Locker, Security/Concierge, Party Room, Sauna, Exercise Centre"
+			},
+			"Individual": [
+				{
+					"IndividualID": 1603226,
+					"Name": "KOUROSH EMAMI",
+					"Organization": {
+						"OrganizationID": 51328,
+						"Name": "RE/MAX REALTRON REALTY INC.",
+						"Logo": "https://cdn.realtor.ca/organization/en-CA/TS637373457860000000/lowres/1003007.jpg",
+						"Address": {
+							"AddressText": "7646 YONGE STREET|THORNHILL, Ontario L4J1V9",
+							"PermitShowAddress": true
+						},
+						"Phones": [
+							{
+								"PhoneType": "Telephone",
+								"PhoneNumber": "764-6000",
+								"AreaCode": "905",
+								"PhoneTypeId": "1"
+							},
+							{
+								"PhoneType": "Fax",
+								"PhoneNumber": "764-1865",
+								"AreaCode": "905",
+								"PhoneTypeId": "4"
+							}
+						],
+						"OrganizationType": "Firm",
+						"Designation": "Brokerage",
+						"PermitFreetextEmail": true,
+						"PermitShowListingLink": true,
+						"RelativeDetailsURL": "/office/firm/51328/remax-realtron-realty-inc-7646-yonge-street-thornhill-ontario-l4j1v9",
+						"PhotoLastupdate": "2020-10-03 6:16:26 PM"
+					},
+					"Phones": [
+						{
+							"PhoneType": "Telephone",
+							"PhoneNumber": "764-6000",
+							"AreaCode": "905",
+							"PhoneTypeId": "1"
+						}
+					],
+					"Emails": [
+						{
+							"ContactId": "455734011"
+						}
+					],
+					"Photo": "https://cdn.realtor.ca/individual/TS636578481600000000/lowres/1159351.jpg",
+					"Position": "Salesperson",
+					"PermitFreetextEmail": true,
+					"FirstName": "KOUROSH",
+					"LastName": "EMAMI",
+					"CorporationDisplayTypeId": "0",
+					"PermitShowListingLink": true,
+					"RelativeDetailsURL": "/agent/1603226/kourosh-emami-7646-yonge-street-thornhill-ontario-l4j1v9",
+					"AgentPhotoLastUpdated": "2018-03-28 15:36:00"
+				},
+				{
+					"IndividualID": 1976854,
+					"Name": "ELMIRA MAALI",
+					"Organization": {
+						"OrganizationID": 51328,
+						"Name": "RE/MAX REALTRON REALTY INC.",
+						"Logo": "https://cdn.realtor.ca/organization/en-CA/TS637373457860000000/lowres/1003007.jpg",
+						"Address": {
+							"AddressText": "7646 YONGE STREET|THORNHILL, Ontario L4J1V9",
+							"PermitShowAddress": true
+						},
+						"Phones": [
+							{
+								"PhoneType": "Telephone",
+								"PhoneNumber": "764-6000",
+								"AreaCode": "905",
+								"PhoneTypeId": "1"
+							},
+							{
+								"PhoneType": "Fax",
+								"PhoneNumber": "764-1865",
+								"AreaCode": "905",
+								"PhoneTypeId": "4"
+							}
+						],
+						"OrganizationType": "Firm",
+						"Designation": "Brokerage",
+						"PermitFreetextEmail": true,
+						"PermitShowListingLink": true,
+						"RelativeDetailsURL": "/office/firm/51328/remax-realtron-realty-inc-7646-yonge-street-thornhill-ontario-l4j1v9",
+						"PhotoLastupdate": "2020-10-03 6:16:26 PM"
+					},
+					"Phones": [
+						{
+							"PhoneType": "Telephone",
+							"PhoneNumber": "764-6000",
+							"AreaCode": "905",
+							"PhoneTypeId": "1"
+						}
+					],
+					"Emails": [
+						{
+							"ContactId": "455813841"
+						}
+					],
+					"Photo": "https://cdn.realtor.ca/individuals/lowres/1976854.jpg",
+					"Position": "Salesperson",
+					"PermitFreetextEmail": true,
+					"FirstName": "ELMIRA",
+					"LastName": "MAALI",
+					"CorporationDisplayTypeId": "0",
+					"PermitShowListingLink": true,
+					"RelativeDetailsURL": "/agent/1976854/elmira-maali-7646-yonge-street-thornhill-ontario-l4j1v9"
+				}
+			],
+			"Property": {
+				"LeaseRent": "$3,300/Monthly",
+				"Type": "Single Family",
+				"Address": {
+					"AddressText": "#2909 -88 SCOTT ST|Toronto, Ontario M5E0A9",
+					"Longitude": "-79.3765906",
+					"Latitude": "43.6483533",
+					"PermitShowAddress": true
+				},
+				"Photo": [
+					{
+						"SequenceId": "1",
+						"HighResPath": "https://cdn.realtor.ca/listings/TS637373467545370000/reb82/highres/3/c4939383_1.jpg",
+						"MedResPath": "https://cdn.realtor.ca/listings/TS637373467545370000/reb82/medres/3/c4939383_1.jpg",
+						"LowResPath": "https://cdn.realtor.ca/listings/TS637373467545370000/reb82/lowres/3/c4939383_1.jpg",
+						"LastUpdated": "2020-10-03 6:32:34 PM"
+					}
+				],
+				"Parking": [
+					{
+						"Name": "Underground"
+					}
+				],
+				"ParkingSpaceTotal": "1",
+				"TypeId": "300",
+				"OwnershipType": "Condominium/Strata",
+				"AmmenitiesNearBy": "Hospital, Park, Public Transit",
+				"ConvertedPrice": " $3,300/Monthly",
+				"OwnershipTypeGroupIds": [
+					2
+				],
+				"ParkingType": "Underground"
+			},
+			"Business": {},
+			"Land": {},
+			"PostalCode": "M5E0A9",
+			"RelativeDetailsURL": "/real-estate/22446719/2909-88-scott-st-toronto-church-yonge-corridor",
+			"StatusId": "1",
+			"PhotoChangeDateUTC": "2020-10-03 10:32:34 PM",
+			"Distance": "",
+			"RelativeURLEn": "/real-estate/22446719/2909-88-scott-st-toronto-church-yonge-corridor",
+			"RelativeURLFr": "/immobilier/22446719/2909-88-scott-st-toronto"
+		}
+	],
+	"Pins": [
+		{
+			"key": "",
+			"propertyId": "22006296",
+			"count": 1,
+			"longitude": "-79.4256",
+			"latitude": "43.8243"
+		},
+		{
+			"key": "",
+			"propertyId": "22104717",
+			"count": 1,
+			"longitude": "-79.3655",
+			"latitude": "43.6495"
+		},
+		{
+			"key": "",
+			"propertyId": "22250264",
+			"count": 1,
+			"longitude": "-79.4288",
+			"latitude": "43.7717"
+		},
+		{
+			"key": "",
+			"propertyId": "22273813",
+			"count": 1,
+			"longitude": "-79.6436",
+			"latitude": "43.8326"
+		},
+		{
+			"key": "",
+			"propertyId": "22276739",
+			"count": 1,
+			"longitude": "-79.3873",
+			"latitude": "43.666"
+		},
+		{
+			"key": "",
+			"propertyId": "22341083",
+			"count": 1,
+			"longitude": "-79.4207",
+			"latitude": "43.8025"
+		},
+		{
+			"key": "",
+			"propertyId": "22347750",
+			"count": 1,
+			"longitude": "-79.3941",
+			"latitude": "43.7071"
+		},
+		{
+			"key": "",
+			"propertyId": "22383431",
+			"count": 1,
+			"longitude": "-79.4501",
+			"latitude": "43.8132"
+		},
+		{
+			"key": "",
+			"propertyId": "22394963",
+			"count": 1,
+			"longitude": "-79.4628",
+			"latitude": "43.7934"
+		},
+		{
+			"key": "",
+			"propertyId": "22425448",
+			"count": 1,
+			"longitude": "-79.377",
+			"latitude": "43.6708"
+		},
+		{
+			"key": "",
+			"propertyId": "22202756",
+			"count": 1,
+			"longitude": "-79.3839",
+			"latitude": "43.6687"
+		},
+		{
+			"key": "",
+			"propertyId": "22430360",
+			"count": 1,
+			"longitude": "-79.3869",
+			"latitude": "43.6647"
+		},
+		{
+			"key": "",
+			"propertyId": "22434439",
+			"count": 1,
+			"longitude": "-79.432",
+			"latitude": "43.8655"
+		},
+		{
+			"key": "",
+			"propertyId": "22434454",
+			"count": 1,
+			"longitude": "-79.2554",
+			"latitude": "43.9118"
+		},
+		{
+			"key": "",
+			"propertyId": "22253462",
+			"count": 1,
+			"longitude": "-79.4393",
+			"latitude": "43.8711"
+		},
+		{
+			"key": "",
+			"propertyId": "22519121",
+			"count": 1,
+			"longitude": "-79.4243",
+			"latitude": "43.6423"
+		},
+		{
+			"key": "",
+			"propertyId": "22522294",
+			"count": 1,
+			"longitude": "-79.4346",
+			"latitude": "43.804"
+		},
+		{
+			"key": "",
+			"propertyId": "22574070",
+			"count": 1,
+			"longitude": "-79.4262",
+			"latitude": "43.8888"
+		},
+		{
+			"key": "",
+			"propertyId": "22293229",
+			"count": 1,
+			"longitude": "-79.4809",
+			"latitude": "43.871"
+		},
+		{
+			"key": "",
+			"propertyId": "22575591",
+			"count": 1,
+			"longitude": "-79.3933",
+			"latitude": "43.8407"
+		},
+		{
+			"key": "",
+			"propertyId": "22578049",
+			"count": 1,
+			"longitude": "-79.6487",
+			"latitude": "43.59"
+		},
+		{
+			"key": "",
+			"propertyId": "22298777",
+			"count": 1,
+			"longitude": "-79.3856",
+			"latitude": "43.6593"
+		},
+		{
+			"key": "",
+			"propertyId": "22318933",
+			"count": 1,
+			"longitude": "-79.7099",
+			"latitude": "43.4908"
+		},
+		{
+			"key": "",
+			"propertyId": "22341527",
+			"count": 1,
+			"longitude": "-79.4199",
+			"latitude": "43.7606"
+		},
+		{
+			"key": "",
+			"propertyId": "22343878",
+			"count": 1,
+			"longitude": "-79.3697",
+			"latitude": "43.7691"
+		},
+		{
+			"key": "",
+			"propertyId": "22446719",
+			"count": 1,
+			"longitude": "-79.3765",
+			"latitude": "43.6483"
+		},
+		{
+			"key": "",
+			"propertyId": "22475972",
+			"count": 1,
+			"longitude": "-79.3978",
+			"latitude": "43.7072"
+		},
+		{
+			"key": "",
+			"propertyId": "22482583",
+			"count": 1,
+			"longitude": "-79.3864",
+			"latitude": "43.6676"
+		},
+		{
+			"key": "",
+			"propertyId": "22484121",
+			"count": 1,
+			"longitude": "-79.4176",
+			"latitude": "43.7781"
+		},
+		{
+			"key": "",
+			"propertyId": "22508628",
+			"count": 1,
+			"longitude": "-79.4",
+			"latitude": "43.6385"
+		},
+		{
+			"key": "",
+			"propertyId": "22510264",
+			"count": 1,
+			"longitude": "-79.4057",
+			"latitude": "43.7563"
+		},
+		{
+			"key": "",
+			"propertyId": "22533955",
+			"count": 1,
+			"longitude": "-79.3749",
+			"latitude": "43.6551"
+		},
+		{
+			"key": "",
+			"propertyId": "22534091",
+			"count": 1,
+			"longitude": "-79.4407",
+			"latitude": "43.794"
+		},
+		{
+			"key": "",
+			"propertyId": "22538067",
+			"count": 1,
+			"longitude": "-79.4285",
+			"latitude": "43.8285"
+		},
+		{
+			"key": "",
+			"propertyId": "22549765",
+			"count": 1,
+			"longitude": "-79.3867",
+			"latitude": "43.6729"
+		},
+		{
+			"key": "",
+			"propertyId": "22549806",
+			"count": 1,
+			"longitude": "-79.4223",
+			"latitude": "43.8647"
+		},
+		{
+			"key": "",
+			"propertyId": "22566411",
+			"count": 1,
+			"longitude": "-79.4154",
+			"latitude": "43.7782"
+		},
+		{
+			"key": "",
+			"propertyId": "22570964",
+			"count": 1,
+			"longitude": "-79.4559",
+			"latitude": "43.812"
+		},
+		{
+			"key": "",
+			"propertyId": "22576848",
+			"count": 1,
+			"longitude": "-79.0658",
+			"latitude": "43.9117"
+		},
+		{
+			"key": "",
+			"propertyId": "22579522",
+			"count": 1,
+			"longitude": "-79.2223",
+			"latitude": "43.8713"
+		},
+		{
+			"key": "",
+			"propertyId": "22224115",
+			"count": 1,
+			"longitude": "-79.4481",
+			"latitude": "43.8924"
+		},
+		{
+			"key": "",
+			"propertyId": "22408344",
+			"count": 1,
+			"longitude": "-79.3765",
+			"latitude": "43.6483"
+		},
+		{
+			"key": "",
+			"propertyId": "22412095",
+			"count": 1,
+			"longitude": "-79.2379",
+			"latitude": "43.7168"
+		},
+		{
+			"key": "",
+			"propertyId": "22431819",
+			"count": 1,
+			"longitude": "-79.1789",
+			"latitude": "43.7661"
+		},
+		{
+			"key": "",
+			"propertyId": "22505637",
+			"count": 1,
+			"longitude": "-79.3874",
+			"latitude": "43.6694"
+		},
+		{
+			"key": "",
+			"propertyId": "22522499",
+			"count": 1,
+			"longitude": "-79.4923",
+			"latitude": "43.7653"
+		},
+		{
+			"key": "",
+			"propertyId": "22546081",
+			"count": 1,
+			"longitude": "-79.3953",
+			"latitude": "43.7115"
+		},
+		{
+			"key": "",
+			"propertyId": "22549725",
+			"count": 1,
+			"longitude": "-79.3867",
+			"latitude": "43.6729"
+		},
+		{
+			"key": "",
+			"propertyId": "22562368",
+			"count": 1,
+			"longitude": "-79.8111",
+			"latitude": "44.1547"
+		},
+		{
+			"key": "",
+			"propertyId": "22563386",
+			"count": 1,
+			"longitude": "-79.4383",
+			"latitude": "43.8617"
+		},
+		{
+			"key": "",
+			"propertyId": "22569152",
+			"count": 1,
+			"longitude": "-79.4026",
+			"latitude": "43.6447"
+		},
+		{
+			"key": "",
+			"propertyId": "22573264",
+			"count": 1,
+			"longitude": "-79.4944",
+			"latitude": "43.8582"
+		},
+		{
+			"key": "",
+			"propertyId": "21674190",
+			"count": 1,
+			"longitude": "-79.3856",
+			"latitude": "43.6593"
+		},
+		{
+			"key": "",
+			"propertyId": "21773566",
+			"count": 1,
+			"longitude": "-79.387",
+			"latitude": "43.6729"
+		},
+		{
+			"key": "",
+			"propertyId": "22577801",
+			"count": 1,
+			"longitude": "-79.3765",
+			"latitude": "43.6483"
+		},
+		{
+			"key": "",
+			"propertyId": "22067959",
+			"count": 1,
+			"longitude": "-79.432",
+			"latitude": "43.852"
+		},
+		{
+			"key": "",
+			"propertyId": "22266135",
+			"count": 1,
+			"longitude": "-79.418",
+			"latitude": "43.8082"
+		},
+		{
+			"key": "",
+			"propertyId": "22298772",
+			"count": 1,
+			"longitude": "-79.3856",
+			"latitude": "43.6593"
+		},
+		{
+			"key": "",
+			"propertyId": "22373514",
+			"count": 1,
+			"longitude": "-79.4517",
+			"latitude": "43.8141"
+		},
+		{
+			"key": "",
+			"propertyId": "22267407",
+			"count": 1,
+			"longitude": "-79.3792",
+			"latitude": "43.6535"
+		},
+		{
+			"key": "",
+			"propertyId": "22397846",
+			"count": 1,
+			"longitude": "-79.3879",
+			"latitude": "43.6653"
+		},
+		{
+			"key": "",
+			"propertyId": "22284389",
+			"count": 1,
+			"longitude": "-79.4801",
+			"latitude": "43.9671"
+		},
+		{
+			"key": "",
+			"propertyId": "22421978",
+			"count": 1,
+			"longitude": "-79.377",
+			"latitude": "43.6708"
+		},
+		{
+			"key": "",
+			"propertyId": "22471899",
+			"count": 1,
+			"longitude": "-79.4129",
+			"latitude": "43.7657"
+		},
+		{
+			"key": "",
+			"propertyId": "22293147",
+			"count": 1,
+			"longitude": "-79.5066",
+			"latitude": "44.0482"
+		},
+		{
+			"key": "",
+			"propertyId": "22305513",
+			"count": 1,
+			"longitude": "-79.3858",
+			"latitude": "43.6601"
+		},
+		{
+			"key": "",
+			"propertyId": "22377745",
+			"count": 1,
+			"longitude": "-79.382",
+			"latitude": "43.6399"
+		},
+		{
+			"key": "",
+			"propertyId": "22510469",
+			"count": 1,
+			"longitude": "-79.4938",
+			"latitude": "43.7973"
+		},
+		{
+			"key": "",
+			"propertyId": "22412048",
+			"count": 1,
+			"longitude": "-79.3929",
+			"latitude": "43.6456"
+		},
+		{
+			"key": "",
+			"propertyId": "22434374",
+			"count": 1,
+			"longitude": "-79.4138",
+			"latitude": "43.8716"
+		},
+		{
+			"key": "",
+			"propertyId": "22438254",
+			"count": 1,
+			"longitude": "-79.3867",
+			"latitude": "43.6729"
+		},
+		{
+			"key": "",
+			"propertyId": "22443493",
+			"count": 1,
+			"longitude": "-79.3873",
+			"latitude": "43.6691"
+		},
+		{
+			"key": "",
+			"propertyId": "22517740",
+			"count": 1,
+			"longitude": "-78.8998",
+			"latitude": "43.9141"
+		},
+		{
+			"key": "",
+			"propertyId": "22539134",
+			"count": 1,
+			"longitude": "-79.429",
+			"latitude": "43.8656"
+		},
+		{
+			"key": "",
+			"propertyId": "21930943",
+			"count": 1,
+			"longitude": "-79.3943",
+			"latitude": "43.6703"
+		},
+		{
+			"key": "",
+			"propertyId": "22258640",
+			"count": 1,
+			"longitude": "-79.3802",
+			"latitude": "43.6698"
+		},
+		{
+			"key": "",
+			"propertyId": "22553623",
+			"count": 1,
+			"longitude": "-79.255",
+			"latitude": "43.895"
+		},
+		{
+			"key": "",
+			"propertyId": "22373219",
+			"count": 1,
+			"longitude": "-79.4092",
+			"latitude": "43.6388"
+		},
+		{
+			"key": "",
+			"propertyId": "22458037",
+			"count": 1,
+			"longitude": "-79.4282",
+			"latitude": "43.8244"
+		},
+		{
+			"key": "",
+			"propertyId": "22566574",
+			"count": 1,
+			"longitude": "-79.4569",
+			"latitude": "43.8923"
+		},
+		{
+			"key": "",
+			"propertyId": "22466676",
+			"count": 1,
+			"longitude": "-79.4416",
+			"latitude": "43.7478"
+		},
+		{
+			"key": "",
+			"propertyId": "22496792",
+			"count": 1,
+			"longitude": "-79.431",
+			"latitude": "43.8518"
+		},
+		{
+			"key": "",
+			"propertyId": "21018282",
+			"count": 1,
+			"longitude": "-79.3867",
+			"latitude": "43.6729"
+		},
+		{
+			"key": "",
+			"propertyId": "22215681",
+			"count": 1,
+			"longitude": "-79.4341",
+			"latitude": "43.8825"
+		},
+		{
+			"key": "",
+			"propertyId": "22284386",
+			"count": 1,
+			"longitude": "-79.5626",
+			"latitude": "43.8289"
+		},
+		{
+			"key": "",
+			"propertyId": "22366527",
+			"count": 1,
+			"longitude": "-79.377",
+			"latitude": "43.6708"
+		},
+		{
+			"key": "",
+			"propertyId": "22423968",
+			"count": 1,
+			"longitude": "-79.5095",
+			"latitude": "43.8568"
+		},
+		{
+			"key": "",
+			"propertyId": "22452393",
+			"count": 1,
+			"longitude": "-79.3844",
+			"latitude": "43.6685"
+		},
+		{
+			"key": "",
+			"propertyId": "22469960",
+			"count": 1,
+			"longitude": "-79.3839",
+			"latitude": "43.6687"
+		},
+		{
+			"key": "",
+			"propertyId": "22498706",
+			"count": 1,
+			"longitude": "-79.4359",
+			"latitude": "43.8615"
+		},
+		{
+			"key": "",
+			"propertyId": "22505665",
+			"count": 1,
+			"longitude": "-79.3512",
+			"latitude": "43.7768"
+		},
+		{
+			"key": "",
+			"propertyId": "22452281",
+			"count": 1,
+			"longitude": "-79.3558",
+			"latitude": "43.7364"
+		},
+		{
+			"key": "",
+			"propertyId": "22452390",
+			"count": 1,
+			"longitude": "-79.3956",
+			"latitude": "43.6406"
+		},
+		{
+			"key": "",
+			"propertyId": "22491689",
+			"count": 1,
+			"longitude": "-79.6064",
+			"latitude": "43.7964"
+		},
+		{
+			"key": "",
+			"propertyId": "22504159",
+			"count": 1,
+			"longitude": "-79.0658",
+			"latitude": "43.9117"
+		},
+		{
+			"key": "",
+			"propertyId": "22523609",
+			"count": 1,
+			"longitude": "-79.4225",
+			"latitude": "43.6931"
+		},
+		{
+			"key": "",
+			"propertyId": "22557903",
+			"count": 1,
+			"longitude": "-79.3837",
+			"latitude": "43.6695"
+		},
+		{
+			"key": "",
+			"propertyId": "22566570",
+			"count": 1,
+			"longitude": "-79.4207",
+			"latitude": "43.8025"
+		},
+		{
+			"key": "",
+			"propertyId": "22570941",
+			"count": 1,
+			"longitude": "-79.3794",
+			"latitude": "43.8213"
+		},
+		{
+			"key": "",
+			"propertyId": "22577836",
+			"count": 1,
+			"longitude": "-79.3426",
+			"latitude": "43.7797"
+		},
+		{
+			"key": "",
+			"propertyId": "22505639",
+			"count": 1,
+			"longitude": "-79.3776",
+			"latitude": "43.6397"
+		},
+		{
+			"key": "",
+			"propertyId": "22505792",
+			"count": 1,
+			"longitude": "-79.3844",
+			"latitude": "43.6685"
+		},
+		{
+			"key": "",
+			"propertyId": "22517558",
+			"count": 1,
+			"longitude": "-79.4462",
+			"latitude": "43.7503"
+		},
+		{
+			"key": "",
+			"propertyId": "22519347",
+			"count": 1,
+			"longitude": "-79.4548",
+			"latitude": "43.8123"
+		},
+		{
+			"key": "",
+			"propertyId": "22505734",
+			"count": 1,
+			"longitude": "-79.4128",
+			"latitude": "43.7734"
+		},
+		{
+			"key": "",
+			"propertyId": "22519352",
+			"count": 1,
+			"longitude": "-79.4238",
+			"latitude": "43.8123"
+		},
+		{
+			"key": "",
+			"propertyId": "22544849",
+			"count": 1,
+			"longitude": "-79.4436",
+			"latitude": "44.0645"
+		},
+		{
+			"key": "",
+			"propertyId": "22520438",
+			"count": 1,
+			"longitude": "-79.3942",
+			"latitude": "43.6411"
+		},
+		{
+			"key": "",
+			"propertyId": "22549744",
+			"count": 1,
+			"longitude": "-79.3867",
+			"latitude": "43.6729"
+		},
+		{
+			"key": "",
+			"propertyId": "22549810",
+			"count": 1,
+			"longitude": "-79.4223",
+			"latitude": "43.8647"
+		},
+		{
+			"key": "",
+			"propertyId": "22532491",
+			"count": 1,
+			"longitude": "-79.4149",
+			"latitude": "43.7755"
+		},
+		{
+			"key": "",
+			"propertyId": "22535045",
+			"count": 1,
+			"longitude": "-79.4513",
+			"latitude": "43.8137"
+		},
+		{
+			"key": "",
+			"propertyId": "22549736",
+			"count": 1,
+			"longitude": "-79.3867",
+			"latitude": "43.6729"
+		},
+		{
+			"key": "",
+			"propertyId": "22553305",
+			"count": 1,
+			"longitude": "-79.3847",
+			"latitude": "43.655"
+		},
+		{
+			"key": "",
+			"propertyId": "22576869",
+			"count": 1,
+			"longitude": "-79.4431",
+			"latitude": "43.953"
+		},
+		{
+			"key": "",
+			"propertyId": "22577805",
+			"count": 1,
+			"longitude": "-79.3927",
+			"latitude": "43.6487"
+		},
+		{
+			"key": "",
+			"propertyId": "22580930",
+			"count": 1,
+			"longitude": "-79.775",
+			"latitude": "43.7282"
+		},
+		{
+			"key": "",
+			"propertyId": "22553480",
+			"count": 1,
+			"longitude": "-79.4176",
+			"latitude": "43.7781"
+		},
+		{
+			"key": "",
+			"propertyId": "22564944",
+			"count": 1,
+			"longitude": "-79.3985",
+			"latitude": "43.6389"
+		},
+		{
+			"key": "",
+			"propertyId": "22569155",
+			"count": 1,
+			"longitude": "-79.4099",
+			"latitude": "43.7603"
+		},
+		{
+			"key": "",
+			"propertyId": "22580806",
+			"count": 1,
+			"longitude": "-79.3961",
+			"latitude": "43.8133"
+		},
+		{
+			"key": "",
+			"propertyId": "22287171",
+			"count": 1,
+			"longitude": "-79.3874",
+			"latitude": "43.6694"
+		},
+		{
+			"key": "",
+			"propertyId": "22349886",
+			"count": 1,
+			"longitude": "-79.3765",
+			"latitude": "43.6483"
+		},
+		{
+			"key": "",
+			"propertyId": "22383210",
+			"count": 1,
+			"longitude": "-79.3943",
+			"latitude": "43.6703"
+		},
+		{
+			"key": "",
+			"propertyId": "22420896",
+			"count": 1,
+			"longitude": "-79.3859",
+			"latitude": "43.8393"
+		},
+		{
+			"key": "",
+			"propertyId": "22433957",
+			"count": 1,
+			"longitude": "-79.4148",
+			"latitude": "43.7736"
+		},
+		{
+			"key": "",
+			"propertyId": "22491324",
+			"count": 1,
+			"longitude": "-79.3374",
+			"latitude": "43.7754"
+		},
+		{
+			"key": "",
+			"propertyId": "22493128",
+			"count": 1,
+			"longitude": "-79.4088",
+			"latitude": "43.7601"
+		},
+		{
+			"key": "",
+			"propertyId": "22493160",
+			"count": 1,
+			"longitude": "-79.4182",
+			"latitude": "43.7946"
+		},
+		{
+			"key": "",
+			"propertyId": "22500012",
+			"count": 1,
+			"longitude": "-79.4358",
+			"latitude": "43.8053"
+		},
+		{
+			"key": "",
+			"propertyId": "22519339",
+			"count": 1,
+			"longitude": "-79.4421",
+			"latitude": "43.7942"
+		},
+		{
+			"key": "",
+			"propertyId": "22563288",
+			"count": 1,
+			"longitude": "-79.3943",
+			"latitude": "43.6703"
+		},
+		{
+			"key": "",
+			"propertyId": "22566310",
+			"count": 1,
+			"longitude": "-79.3693",
+			"latitude": "43.645"
+		},
+		{
+			"key": "",
+			"propertyId": "22570965",
+			"count": 1,
+			"longitude": "-79.4625",
+			"latitude": "43.8394"
+		},
+		{
+			"key": "",
+			"propertyId": "22577928",
+			"count": 1,
+			"longitude": "-79.4358",
+			"latitude": "43.8052"
+		}
+	],
+	"GroupingLevel": ""
+}
