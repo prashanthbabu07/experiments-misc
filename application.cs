@@ -69,7 +69,6 @@ namespace Blockcerts.Interactors.Realtor.Commands.ProcessMortgageCommand.Models
 		[Newtonsoft.Json.JsonProperty("countryTypeDd", Required = Newtonsoft.Json.Required.Always)]
 		[System.ComponentModel.DataAnnotations.Required(AllowEmptyStrings = true)]
 		[System.ComponentModel.DataAnnotations.StringLength(255)]
-		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "CountryTypeDd")]
 		public string CountryTypeDd { get; set; }
 
 		/// <summary>Including US Zip Code</summary>
@@ -461,7 +460,6 @@ namespace Blockcerts.Interactors.Realtor.Commands.ProcessMortgageCommand.Models
 		/// Y=Yes, N= No</summary>
 		[Newtonsoft.Json.JsonProperty("thirdPartyApplicationFlag", Required = Newtonsoft.Json.Required.DisallowNull, NullValueHandling = Newtonsoft.Json.NullValueHandling.Ignore)]
 		[System.ComponentModel.DataAnnotations.StringLength(1)]
-		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "ThirdPartyApplicationFlag")]
 		public string ThirdPartyApplicationFlag { get; set; }
 
 

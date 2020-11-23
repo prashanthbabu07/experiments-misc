@@ -1554,7 +1554,8 @@ exports.data = {
                     "type": "string",
                     "maxLength": 1,
                     "enum": [
-                        "Y"
+                        "Y",
+                        "N"
                     ]
                 },
                 "existingMortgageHolder": {

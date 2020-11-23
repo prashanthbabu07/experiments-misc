@@ -1,6 +1,5 @@
 
 
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -72,8 +71,7 @@ namespace Blockcerts.Interactors.Realtor.Commands.ProcessMortgageCommand.Models
 		[Newtonsoft.Json.JsonProperty("countryTypeDd", Required = Newtonsoft.Json.Required.Always)]
 		[System.ComponentModel.DataAnnotations.Required(AllowEmptyStrings = true)]
 		[System.ComponentModel.DataAnnotations.StringLength(255)]
-		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "CountryTypeDd")]
-		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "CountryTypeDd", canBeEmptyOrNull: true)]
+		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "CountryTypeDd", canBeEmptyOrNull: false)]
 		public string CountryTypeDd { get; set; }
 
 		/// <summary>Including US Zip Code</summary>
@@ -98,7 +96,7 @@ namespace Blockcerts.Interactors.Realtor.Commands.ProcessMortgageCommand.Models
 		[Newtonsoft.Json.JsonProperty("provinceDd", Required = Newtonsoft.Json.Required.Always)]
 		[System.ComponentModel.DataAnnotations.Required(AllowEmptyStrings = true)]
 		[System.ComponentModel.DataAnnotations.StringLength(255)]
-		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "ProvinceDd", canBeEmptyOrNull: true)]
+		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "ProvinceDd", canBeEmptyOrNull: false)]
 		public string ProvinceDd { get; set; }
 
 		/// <summary>Street direction of address
@@ -293,7 +291,7 @@ namespace Blockcerts.Interactors.Realtor.Commands.ProcessMortgageCommand.Models
 		[Newtonsoft.Json.JsonProperty("primaryApplicantFlag", Required = Newtonsoft.Json.Required.Always)]
 		[System.ComponentModel.DataAnnotations.Required(AllowEmptyStrings = true)]
 		[System.ComponentModel.DataAnnotations.StringLength(1)]
-		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "PrimaryApplicantFlag", canBeEmptyOrNull: true)]
+		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "PrimaryApplicantFlag", canBeEmptyOrNull: false)]
 		public string PrimaryApplicantFlag { get; set; }
 
 		/// <summary>Menu Code: RELATIONSHIP
@@ -421,7 +419,7 @@ namespace Blockcerts.Interactors.Realtor.Commands.ProcessMortgageCommand.Models
 		[Newtonsoft.Json.JsonProperty("dealPurposeDd", Required = Newtonsoft.Json.Required.Always)]
 		[System.ComponentModel.DataAnnotations.Required(AllowEmptyStrings = true)]
 		[System.ComponentModel.DataAnnotations.StringLength(255)]
-		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "DealPurposeDd", canBeEmptyOrNull: true)]
+		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "DealPurposeDd", canBeEmptyOrNull: false)]
 		public string DealPurposeDd { get; set; }
 
 		/// <summary>Identifies type of application. (Approval or Pre-approval)
@@ -429,7 +427,7 @@ namespace Blockcerts.Interactors.Realtor.Commands.ProcessMortgageCommand.Models
 		[Newtonsoft.Json.JsonProperty("dealTypeDd", Required = Newtonsoft.Json.Required.Always)]
 		[System.ComponentModel.DataAnnotations.Required(AllowEmptyStrings = true)]
 		[System.ComponentModel.DataAnnotations.StringLength(255)]
-		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "DealTypeDd", canBeEmptyOrNull: true)]
+		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "DealTypeDd", canBeEmptyOrNull: false)]
 		public string DealTypeDd { get; set; }
 
 		[Newtonsoft.Json.JsonProperty("downPaymentSource", Required = Newtonsoft.Json.Required.DisallowNull, NullValueHandling = Newtonsoft.Json.NullValueHandling.Ignore)]
@@ -486,7 +484,6 @@ namespace Blockcerts.Interactors.Realtor.Commands.ProcessMortgageCommand.Models
 		/// Y=Yes, N= No</summary>
 		[Newtonsoft.Json.JsonProperty("thirdPartyApplicationFlag", Required = Newtonsoft.Json.Required.DisallowNull, NullValueHandling = Newtonsoft.Json.NullValueHandling.Ignore)]
 		[System.ComponentModel.DataAnnotations.StringLength(1)]
-		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "ThirdPartyApplicationFlag")]
 		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "ThirdPartyApplicationFlag", canBeEmptyOrNull: true)]
 		public string ThirdPartyApplicationFlag { get; set; }
 
@@ -600,7 +597,7 @@ namespace Blockcerts.Interactors.Realtor.Commands.ProcessMortgageCommand.Models
 		[Newtonsoft.Json.JsonProperty("incomePeriodDd", Required = Newtonsoft.Json.Required.Always)]
 		[System.ComponentModel.DataAnnotations.Required(AllowEmptyStrings = true)]
 		[System.ComponentModel.DataAnnotations.StringLength(255)]
-		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "IncomePeriodDd", canBeEmptyOrNull: true)]
+		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "IncomePeriodDd", canBeEmptyOrNull: false)]
 		public string IncomePeriodDd { get; set; }
 
 		/// <summary>Indicates the type of income .
@@ -609,7 +606,7 @@ namespace Blockcerts.Interactors.Realtor.Commands.ProcessMortgageCommand.Models
 		[Newtonsoft.Json.JsonProperty("incomeTypeDd", Required = Newtonsoft.Json.Required.Always)]
 		[System.ComponentModel.DataAnnotations.Required(AllowEmptyStrings = true)]
 		[System.ComponentModel.DataAnnotations.StringLength(255)]
-		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "IncomeTypeDd", canBeEmptyOrNull: true)]
+		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "IncomeTypeDd", canBeEmptyOrNull: false)]
 		public string IncomeTypeDd { get; set; }
 
 
@@ -635,7 +632,7 @@ namespace Blockcerts.Interactors.Realtor.Commands.ProcessMortgageCommand.Models
 		[Newtonsoft.Json.JsonProperty("incomePeriodDd", Required = Newtonsoft.Json.Required.Always)]
 		[System.ComponentModel.DataAnnotations.Required(AllowEmptyStrings = true)]
 		[System.ComponentModel.DataAnnotations.StringLength(255)]
-		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "IncomePeriodDd", canBeEmptyOrNull: true)]
+		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "IncomePeriodDd", canBeEmptyOrNull: false)]
 		public string IncomePeriodDd { get; set; }
 
 		/// <summary>Indicates the type of income .
@@ -644,7 +641,7 @@ namespace Blockcerts.Interactors.Realtor.Commands.ProcessMortgageCommand.Models
 		[Newtonsoft.Json.JsonProperty("incomeTypeDd", Required = Newtonsoft.Json.Required.Always)]
 		[System.ComponentModel.DataAnnotations.Required(AllowEmptyStrings = true)]
 		[System.ComponentModel.DataAnnotations.StringLength(255)]
-		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "IncomeTypeDd", canBeEmptyOrNull: true)]
+		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "IncomeTypeDd", canBeEmptyOrNull: false)]
 		public string IncomeTypeDd { get; set; }
 
 
@@ -675,7 +672,7 @@ namespace Blockcerts.Interactors.Realtor.Commands.ProcessMortgageCommand.Models
 		[Newtonsoft.Json.JsonProperty("incomePeriodDd", Required = Newtonsoft.Json.Required.Always)]
 		[System.ComponentModel.DataAnnotations.Required(AllowEmptyStrings = true)]
 		[System.ComponentModel.DataAnnotations.StringLength(255)]
-		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "IncomePeriodDd", canBeEmptyOrNull: true)]
+		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "IncomePeriodDd", canBeEmptyOrNull: false)]
 		public string IncomePeriodDd { get; set; }
 
 		/// <summary>Indicates the type of income .
@@ -684,7 +681,7 @@ namespace Blockcerts.Interactors.Realtor.Commands.ProcessMortgageCommand.Models
 		[Newtonsoft.Json.JsonProperty("incomeTypeDd", Required = Newtonsoft.Json.Required.Always)]
 		[System.ComponentModel.DataAnnotations.Required(AllowEmptyStrings = true)]
 		[System.ComponentModel.DataAnnotations.StringLength(255)]
-		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "IncomeTypeDd", canBeEmptyOrNull: true)]
+		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "IncomeTypeDd", canBeEmptyOrNull: false)]
 		public string IncomeTypeDd { get; set; }
 
 
@@ -774,7 +771,7 @@ namespace Blockcerts.Interactors.Realtor.Commands.ProcessMortgageCommand.Models
 		[Newtonsoft.Json.JsonProperty("existingMortgageFlag", Required = Newtonsoft.Json.Required.Always)]
 		[System.ComponentModel.DataAnnotations.Required(AllowEmptyStrings = true)]
 		[System.ComponentModel.DataAnnotations.StringLength(1)]
-		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "ExistingMortgageFlag", canBeEmptyOrNull: true)]
+		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "ExistingMortgageFlag", canBeEmptyOrNull: false)]
 		public string ExistingMortgageFlag { get; set; }
 
 		/// <summary>Name of existing mortgage holder.
@@ -969,7 +966,7 @@ namespace Blockcerts.Interactors.Realtor.Commands.ProcessMortgageCommand.Models
 		[Newtonsoft.Json.JsonProperty("existingMortgageFlag", Required = Newtonsoft.Json.Required.Always)]
 		[System.ComponentModel.DataAnnotations.Required(AllowEmptyStrings = true)]
 		[System.ComponentModel.DataAnnotations.StringLength(1)]
-		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "ExistingMortgageFlag", canBeEmptyOrNull: true)]
+		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "ExistingMortgageFlag", canBeEmptyOrNull: false)]
 		public string ExistingMortgageFlag { get; set; }
 
 		/// <summary>Name of existing mortgage holder.
@@ -1522,7 +1519,7 @@ namespace Blockcerts.Interactors.Realtor.Commands.ProcessMortgageCommand.Models
 		[Newtonsoft.Json.JsonProperty("applicantGroupTypeDd", Required = Newtonsoft.Json.Required.Always)]
 		[System.ComponentModel.DataAnnotations.Required(AllowEmptyStrings = true)]
 		[System.ComponentModel.DataAnnotations.StringLength(255)]
-		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "ApplicantGroupTypeDd", canBeEmptyOrNull: true)]
+		[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "ApplicantGroupTypeDd", canBeEmptyOrNull: false)]
 		public string ApplicantGroupTypeDd { get; set; }
 
 		[Newtonsoft.Json.JsonProperty("mailingAddr", Required = Newtonsoft.Json.Required.DisallowNull, NullValueHandling = Newtonsoft.Json.NullValueHandling.Ignore)]

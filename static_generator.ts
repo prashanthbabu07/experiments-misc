@@ -27,15 +27,16 @@ function parse(obj: any) {
 
 function checkForDD(obj: any, key: string) {
 	// if (endsWith(key, "Dd")) {
-	if (obj["enum"] != null)
+	if (obj["enum"] != null) {
 		if (enums.filter(e => e == key).length == 0) {
 			enums.push(key);
 			// createStaticClass(obj, key);
 			// createQueryAction(obj, key);
-			// generateReferenceSql(obj, key);
+			generateReferenceSql(obj, key);
 			// generateDataAnnotations(obj, key);
-			addDataAnnotations(obj, key);
+			// addDataAnnotations(obj, key);
 		}
+	}
 }
 
 function createStaticClass(obj: any, key: string) {
@@ -91,10 +92,9 @@ function createQueryAction(obj: any, key: string) {
 	[ProducesResponseType(typeof(List<string>), 200)]
 	[ProducesResponseType(typeof(InternalErrorViewModel), (int)HttpStatusCode.InternalServerError)]
 	[ProducesResponseType(typeof(ErrorMessage), (int)HttpStatusCode.BadRequest)]
-	//[SwaggerOperation("GetCostTypes")]
-	public async Task<IActionResult> Get${classname}()
+	public IActionResult Get${classname}()
 	{
-		return Ok(${classname}.Values);
+		return Ok(_mortgageReferenceStoreService.FindDropDownValuesByType("${classname}"));
 	}`;
 
 	console.log(action);
@@ -138,8 +138,11 @@ function addDataAnnotations(obj: any, key: string) {
 
 	var type = getClassname(key);
 
+	var found = sourcedata.indexOf(`[Newtonsoft.Json.JsonProperty("${key}", Required = Newtonsoft.Json.Required.Always)]`);
+	var canbeemptyornull = found > -1 ? "false" : "true";
+
 	var rx = new RegExp(`public string ${type} { get; set; }`, "ig");
-	var newstring = `[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "${type}", canBeEmptyOrNull: true)]\npublic string ${type} { get; set; }`;
+	var newstring = `[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "${type}", canBeEmptyOrNull: ${canbeemptyornull})]\npublic string ${type} { get; set; }`;
 	sourcedata = sourcedata.replace(rx, newstring);
 
 	// console.log(`replacing ${type}`, ++count);
@@ -147,5 +150,5 @@ function addDataAnnotations(obj: any, key: string) {
 
 readToSourceData();
 parse(data);
-console.log(sourcedata);
+// console.log(sourcedata);
 
