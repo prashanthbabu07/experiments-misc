@@ -1,4 +1,5 @@
 import { data } from "./post_data";
+import { readFileSync } from "fs";
 
 var enums = new Array<string>();
 
@@ -31,7 +32,9 @@ function checkForDD(obj: any, key: string) {
 			enums.push(key);
 			// createStaticClass(obj, key);
 			// createQueryAction(obj, key);
-			generateReferenceSql(obj, key);
+			// generateReferenceSql(obj, key);
+			// generateDataAnnotations(obj, key);
+			addDataAnnotations(obj, key);
 		}
 }
 
@@ -114,6 +117,35 @@ function generateReferenceSql(obj: any, key: string) {
 
 }
 
-// console.log(process.argv);
+function generateDataAnnotations(obj: any, key: string) {
+	var type = getClassname(key);
+	var da = `[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "${type}", canBeEmptyOrNull: true)]`;
+	console.log(da);
+}
 
+var sourcedata = "";
+var count = 0;
+
+function readToSourceData() {
+	sourcedata = readFileSync("./application.cs", "utf8");
+	// console.log(sourcedata);
+}
+
+function addDataAnnotations(obj: any, key: string) {
+	if (obj["enum"] == null) {
+		return;
+	}
+
+	var type = getClassname(key);
+
+	var rx = new RegExp(`public string ${type} { get; set; }`, "ig");
+	var newstring = `[Blockcerts.Interactors.Shared.DataAnnotations.DropDownAttribute(ddType: "${type}", canBeEmptyOrNull: true)]\npublic string ${type} { get; set; }`;
+	sourcedata = sourcedata.replace(rx, newstring);
+
+	// console.log(`replacing ${type}`, ++count);
+}
+
+readToSourceData();
 parse(data);
+console.log(sourcedata);
+
