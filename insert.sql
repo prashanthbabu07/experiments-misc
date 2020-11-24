@@ -1,5 +1,3 @@
-
-
 insert into MORTGAGE.ReferenceDropDown (DropDownType, DropDownValue, Created, Modified) values ('CountryTypeDd', 'Canada', getutcdate(), getutcdate())
 insert into MORTGAGE.ReferenceDropDown (DropDownType, DropDownValue, Created, Modified) values ('CountryTypeDd', 'United States', getutcdate(), getutcdate())
 insert into MORTGAGE.ReferenceDropDown (DropDownType, DropDownValue, Created, Modified) values ('ProvinceDd', 'Alabama', getutcdate(), getutcdate())
@@ -519,6 +517,10 @@ insert into MORTGAGE.ReferenceDropDown (DropDownType, DropDownValue, Created, Mo
 insert into MORTGAGE.ReferenceDropDown (DropDownType, DropDownValue, Created, Modified) values ('IncomeTypeDd', 'Other Employment Income', getutcdate(), getutcdate())
 insert into MORTGAGE.ReferenceDropDown (DropDownType, DropDownValue, Created, Modified) values ('IncomeTypeDd', 'Salary', getutcdate(), getutcdate())
 insert into MORTGAGE.ReferenceDropDown (DropDownType, DropDownValue, Created, Modified) values ('IncomeTypeDd', 'Self Employed', getutcdate(), getutcdate())
+insert into MORTGAGE.ReferenceDropDown (DropDownType, DropDownValue, Created, Modified) values ('IncomeTypeDd', 'Alimony', getutcdate(), getutcdate())
+insert into MORTGAGE.ReferenceDropDown (DropDownType, DropDownValue, Created, Modified) values ('IncomeTypeDd', 'Child Support', getutcdate(), getutcdate())
+insert into MORTGAGE.ReferenceDropDown (DropDownType, DropDownValue, Created, Modified) values ('IncomeTypeDd', 'Pension', getutcdate(), getutcdate())
+insert into MORTGAGE.ReferenceDropDown (DropDownType, DropDownValue, Created, Modified) values ('IncomeTypeDd', 'Rental Income', getutcdate(), getutcdate())
 insert into MORTGAGE.ReferenceDropDown (DropDownType, DropDownValue, Created, Modified) values ('LiabilityPayOffTypeDd', 'Prior to Advance', getutcdate(), getutcdate())
 insert into MORTGAGE.ReferenceDropDown (DropDownType, DropDownValue, Created, Modified) values ('LiabilityPayOffTypeDd', 'From Proceeds', getutcdate(), getutcdate())
 insert into MORTGAGE.ReferenceDropDown (DropDownType, DropDownValue, Created, Modified) values ('LiabilityTypeDd', 'Alimony', getutcdate(), getutcdate())
@@ -544,6 +546,7 @@ insert into MORTGAGE.ReferenceDropDown (DropDownType, DropDownValue, Created, Mo
 insert into MORTGAGE.ReferenceDropDown (DropDownType, DropDownValue, Created, Modified) values ('MailingAddressIndicator', 'P', getutcdate(), getutcdate())
 insert into MORTGAGE.ReferenceDropDown (DropDownType, DropDownValue, Created, Modified) values ('MailingAddressIndicator', 'O', getutcdate(), getutcdate())
 insert into MORTGAGE.ReferenceDropDown (DropDownType, DropDownValue, Created, Modified) values ('ExistingMortgageFlag', 'Y', getutcdate(), getutcdate())
+insert into MORTGAGE.ReferenceDropDown (DropDownType, DropDownValue, Created, Modified) values ('ExistingMortgageFlag', 'N', getutcdate(), getutcdate())
 insert into MORTGAGE.ReferenceDropDown (DropDownType, DropDownValue, Created, Modified) values ('InsuredFlag', 'N', getutcdate(), getutcdate())
 insert into MORTGAGE.ReferenceDropDown (DropDownType, DropDownValue, Created, Modified) values ('InsuredFlag', 'Y', getutcdate(), getutcdate())
 insert into MORTGAGE.ReferenceDropDown (DropDownType, DropDownValue, Created, Modified) values ('InterestOnlyFlag', 'Y', getutcdate(), getutcdate())

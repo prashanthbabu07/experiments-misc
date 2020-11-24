@@ -20,9 +20,29 @@ function parse(obj: any) {
 		Object.keys(obj).forEach(k => {
 			// console.log(k);
 			parse(obj[k]);
-			checkForDD(obj[k], k);
+			// checkForDD(obj[k], k);
+			checkDDValues(obj[k], k);
 		});
 	}
+}
+
+var ddtypevalues = Array<{ type: string, vlaue: string }>();
+
+function checkDDValues(obj: any, key: string) {
+	if (obj["enum"] == null) {
+		return;
+	}
+	var type = getClassname(key);
+	obj["enum"].forEach(v => {
+		if (ddtypevalues.filter(d => d.type == key && d.vlaue == v).length == 0) {
+			ddtypevalues.push({ type: key, vlaue: v });
+			var sql = "insert into MORTGAGE.ReferenceDropDown (DropDownType, DropDownValue, Created, Modified)";
+			var insert = `${sql} values ('${type}', '${v}', getutcdate(), getutcdate())`;
+			console.log(insert);
+		}
+	});
+
+
 }
 
 function checkForDD(obj: any, key: string) {
